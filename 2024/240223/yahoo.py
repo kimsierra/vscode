@@ -6,6 +6,8 @@ import pandas as pd
 import time
 
 
+
+
 driver = webdriver.Chrome()
 
 driver.get("https://www.naver.com")
