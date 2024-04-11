@@ -1,0 +1,1907 @@
+﻿,ticker,ticker_name,highest_correlation,Top1_Correlation,Top2_Correlation,Top3_Correlation,Top4_Correlation,Top5_Correlation,Top6_Correlation,Top7_Correlation,Top8_Correlation
+0,95570,AJ네트웍스,"0    0.07845
+Name: Correlation, dtype: float64",0.111389177,0.068097328,0.066020982,0.063416126,0.059762178,0.059271455,0.057500166,0.056120457
+1,6840,AK홀딩스,"0    0.135792
+Name: Correlation, dtype: float64",,,,,,,,
+2,27410,BGF,"0    0.127063
+Name: Correlation, dtype: float64",,,,,,,,
+3,282330,BGF리테일,"0    0.136616
+Name: Correlation, dtype: float64",,,,,,,,
+4,138930,BNK금융지주,"0    0.107775
+Name: Correlation, dtype: float64",,,,,,,,
+5,1460,BYC,"0    0.149473
+Name: Correlation, dtype: float64",,,,,,,,
+6,1465,BYC우,"0    0.201027
+Name: Correlation, dtype: float64",,,,,,,,
+7,1040,CJ,"0    0.114671
+Name: Correlation, dtype: float64",,,,,,,,
+8,79160,CJ CGV,"0    0.109215
+Name: Correlation, dtype: float64",,,,,,,,
+9,00104K,CJ4우(전환),"0    0.105166
+Name: Correlation, dtype: float64",,,,,,,,
+10,120,CJ대한통운,"0    0.105965
+Name: Correlation, dtype: float64",,,,,,,,
+11,11150,CJ씨푸드,"0    0.13298
+Name: Correlation, dtype: float64",,,,,,,,
+12,11155,CJ씨푸드1우,"0    0.192871
+Name: Correlation, dtype: float64",,,,,,,,
+13,1045,CJ우,"0    0.097878
+Name: Correlation, dtype: float64",,,,,,,,
+14,97950,CJ제일제당,"0    0.09543
+Name: Correlation, dtype: float64",,,,,,,,
+15,97955,CJ제일제당 우,"0    0.084465
+Name: Correlation, dtype: float64",,,,,,,,
+16,480,CR홀딩스,"0    0.132991
+Name: Correlation, dtype: float64",,,,,,,,
+17,590,CS홀딩스,"0    0.102469
+Name: Correlation, dtype: float64",,,,,,,,
+18,12030,DB,"0    0.094081
+Name: Correlation, dtype: float64",,,,,,,,
+19,16610,DB금융투자,"0    0.186327
+Name: Correlation, dtype: float64",,,,,,,,
+20,5830,DB손해보험,"0    0.089082
+Name: Correlation, dtype: float64",,,,,,,,
+21,990,DB하이텍,"0    0.104755
+Name: Correlation, dtype: float64",,,,,,,,
+22,139130,DGB금융지주,"0    0.171916
+Name: Correlation, dtype: float64",,,,,,,,
+23,1530,DI동일,"0    0.089431
+Name: Correlation, dtype: float64",,,,,,,,
+24,210,DL,"0    0.094572
+Name: Correlation, dtype: float64",,,,,,,,
+25,215,DL우,"0    0.072518
+Name: Correlation, dtype: float64",,,,,,,,
+26,375500,DL이앤씨,"0    0.143197
+Name: Correlation, dtype: float64",,,,,,,,
+27,37550L,DL이앤씨2우(전환),"0    0.198308
+Name: Correlation, dtype: float64",,,,,,,,
+28,37550K,DL이앤씨우,"0    0.194661
+Name: Correlation, dtype: float64",,,,,,,,
+29,7340,DN오토모티브,"0    0.112294
+Name: Correlation, dtype: float64",,,,,,,,
+30,4840,DRB동일,"0    0.138782
+Name: Correlation, dtype: float64",,,,,,,,
+31,155660,DSR,"0    0.123068
+Name: Correlation, dtype: float64",,,,,,,,
+32,69730,DSR제강,"0    0.127285
+Name: Correlation, dtype: float64",,,,,,,,
+33,17860,DS단석,"0   NaN
+Name: Correlation, dtype: float64",,,,,,,,
+34,17940,E1,"0    0.158992
+Name: Correlation, dtype: float64",,,,,,,,
+35,365550,ESR켄달스퀘어리츠,"0    0.117968
+Name: Correlation, dtype: float64",,,,,,,,
+36,383220,F&F,"0    0.122722
+Name: Correlation, dtype: float64",,,,,,,,
+37,7700,F&F홀딩스,"0    0.118472
+Name: Correlation, dtype: float64",,,,,,,,
+38,114090,GKL,"0    0.133254
+Name: Correlation, dtype: float64",,,,,,,,
+39,78930,GS,"0    0.151711
+Name: Correlation, dtype: float64",,,,,,,,
+40,6360,GS건설,"0    0.117782
+Name: Correlation, dtype: float64",,,,,,,,
+41,1250,GS글로벌,"0    0.119638
+Name: Correlation, dtype: float64",,,,,,,,
+42,7070,GS리테일,"0    0.126435
+Name: Correlation, dtype: float64",,,,,,,,
+43,78935,GS우,"0    0.170757
+Name: Correlation, dtype: float64",,,,,,,,
+44,12630,HDC,"0    0.116032
+Name: Correlation, dtype: float64",,,,,,,,
+45,39570,HDC랩스,"0    0.122126
+Name: Correlation, dtype: float64",,,,,,,,
+46,89470,HDC현대EP,"0    0.128456
+Name: Correlation, dtype: float64",,,,,,,,
+47,294870,HDC현대산업개발,"0    0.128297
+Name: Correlation, dtype: float64",,,,,,,,
+48,9540,HD한국조선해양,"0    0.130634
+Name: Correlation, dtype: float64",,,,,,,,
+49,267250,HD현대,"0    0.175256
+Name: Correlation, dtype: float64",,,,,,,,
+50,267270,HD현대건설기계,"0    0.107369
+Name: Correlation, dtype: float64",,,,,,,,
+51,322000,HD현대에너지솔루션,"0    0.117959
+Name: Correlation, dtype: float64",,,,,,,,
+52,42670,HD현대인프라코어,"0    0.1035
+Name: Correlation, dtype: float64",,,,,,,,
+53,267260,HD현대일렉트릭,"0    0.111396
+Name: Correlation, dtype: float64",,,,,,,,
+54,329180,HD현대중공업,"0    0.14394
+Name: Correlation, dtype: float64",,,,,,,,
+55,97230,HJ중공업,"0    0.112627
+Name: Correlation, dtype: float64",,,,,,,,
+56,14790,HL D&I,"0    0.125272
+Name: Correlation, dtype: float64",,,,,,,,
+57,3580,HLB글로벌,"0    0.092025
+Name: Correlation, dtype: float64",,,,,,,,
+58,204320,HL만도,"0    0.13856
+Name: Correlation, dtype: float64",,,,,,,,
+59,60980,HL홀딩스,"0    0.100264
+Name: Correlation, dtype: float64",,,,,,,,
+60,11200,HMM,"0    0.094467
+Name: Correlation, dtype: float64",,,,,,,,
+61,35000,HS애드,"0    0.137279
+Name: Correlation, dtype: float64",,,,,,,,
+62,3560,IHQ,"0    0.212846
+Name: Correlation, dtype: float64",,,,,,,,
+63,175330,JB금융지주,"0    0.122502
+Name: Correlation, dtype: float64",,,,,,,,
+64,234080,JW생명과학,"0    0.1137
+Name: Correlation, dtype: float64",,,,,,,,
+65,1060,JW중외제약,"0    0.134958
+Name: Correlation, dtype: float64",,,,,,,,
+66,1067,JW중외제약2우B,"0    0.144114
+Name: Correlation, dtype: float64",,,,,,,,
+67,1065,JW중외제약우,"0    0.156662
+Name: Correlation, dtype: float64",,,,,,,,
+68,96760,JW홀딩스,"0    0.166206
+Name: Correlation, dtype: float64",,,,,,,,
+69,105560,KB금융,"0    0.120133
+Name: Correlation, dtype: float64",,,,,,,,
+70,432320,KB스타리츠,"0    0.278095
+Name: Correlation, dtype: float64",,,,,,,,
+71,2380,KCC,"0    0.11753
+Name: Correlation, dtype: float64",,,,,,,,
+72,344820,KCC글라스,"0    0.113262
+Name: Correlation, dtype: float64",,,,,,,,
+73,9070,KCTC,"0    0.137744
+Name: Correlation, dtype: float64",,,,,,,,
+74,9440,KC그린홀딩스,"0    0.118493
+Name: Correlation, dtype: float64",,,,,,,,
+75,119650,KC코트렐,"0    0.094515
+Name: Correlation, dtype: float64",,,,,,,,
+76,92220,KEC,"0    0.110009
+Name: Correlation, dtype: float64",,,,,,,,
+77,3620,KG모빌리티,"0    0.194257
+Name: Correlation, dtype: float64",,,,,,,,
+78,16380,KG스틸,"0    0.137809
+Name: Correlation, dtype: float64",,,,,,,,
+79,1390,KG케미칼,"0    0.132914
+Name: Correlation, dtype: float64",,,,,,,,
+80,33180,KH 필룩스,"0    0.187564
+Name: Correlation, dtype: float64",,,,,,,,
+81,15590,KIB플러그에너지,"0    0.117415
+Name: Correlation, dtype: float64",,,,,,,,
+82,1940,KISCO홀딩스,"0    0.081802
+Name: Correlation, dtype: float64",,,,,,,,
+83,25000,KPX케미칼,"0    0.173166
+Name: Correlation, dtype: float64",,,,,,,,
+84,92230,KPX홀딩스,"0    0.158014
+Name: Correlation, dtype: float64",,,,,,,,
+85,40,KR모터스,"0    0.137603
+Name: Correlation, dtype: float64",,,,,,,,
+86,44450,KSS해운,"0    0.089676
+Name: Correlation, dtype: float64",,,,,,,,
+87,30200,KT,"0    0.153662
+Name: Correlation, dtype: float64",,,,,,,,
+88,33780,KT&G,"0    0.198882
+Name: Correlation, dtype: float64",,,,,,,,
+89,58850,KTcs,"0    0.082345
+Name: Correlation, dtype: float64",,,,,,,,
+90,58860,KTis,"0    0.101865
+Name: Correlation, dtype: float64",,,,,,,,
+91,93050,LF,"0    0.172627
+Name: Correlation, dtype: float64",,,,,,,,
+92,3550,LG,"0    0.178153
+Name: Correlation, dtype: float64",,,,,,,,
+93,34220,LG디스플레이,"0    0.124984
+Name: Correlation, dtype: float64",,,,,,,,
+94,51900,LG생활건강,"0    0.152355
+Name: Correlation, dtype: float64",,,,,,,,
+95,51905,LG생활건강우,"0    0.177928
+Name: Correlation, dtype: float64",,,,,,,,
+96,373220,LG에너지솔루션,"0    0.188476
+Name: Correlation, dtype: float64",,,,,,,,
+97,3555,LG우,"0    0.170815
+Name: Correlation, dtype: float64",,,,,,,,
+98,32640,LG유플러스,"0    0.148263
+Name: Correlation, dtype: float64",,,,,,,,
+99,11070,LG이노텍,"0    0.105249
+Name: Correlation, dtype: float64",,,,,,,,
+100,66570,LG전자,"0    0.109679
+Name: Correlation, dtype: float64",,,,,,,,
+101,66575,LG전자우,"0    0.089299
+Name: Correlation, dtype: float64",,,,,,,,
+102,37560,LG헬로비전,"0    0.117491
+Name: Correlation, dtype: float64",,,,,,,,
+103,51910,LG화학,"0    0.11848
+Name: Correlation, dtype: float64",,,,,,,,
+104,51915,LG화학우,"0    0.100986
+Name: Correlation, dtype: float64",,,,,,,,
+105,79550,LIG넥스원,"0    0.116591
+Name: Correlation, dtype: float64",,,,,,,,
+106,6260,LS,"0    0.118646
+Name: Correlation, dtype: float64",,,,,,,,
+107,10120,LS ELECTRIC,"0    0.128753
+Name: Correlation, dtype: float64",,,,,,,,
+108,680,LS네트웍스,"0    0.127837
+Name: Correlation, dtype: float64",,,,,,,,
+109,229640,LS에코에너지,"0    0.105467
+Name: Correlation, dtype: float64",,,,,,,,
+110,108320,LX세미콘,"0    0.088567
+Name: Correlation, dtype: float64",,,,,,,,
+111,1120,LX인터내셔널,"0    0.122788
+Name: Correlation, dtype: float64",,,,,,,,
+112,108670,LX하우시스,"0    0.073076
+Name: Correlation, dtype: float64",,,,,,,,
+113,108675,LX하우시스우,"0    0.11559
+Name: Correlation, dtype: float64",,,,,,,,
+114,383800,LX홀딩스,"0    0.134651
+Name: Correlation, dtype: float64",,,,,,,,
+115,38380K,LX홀딩스1우,"0    0.143691
+Name: Correlation, dtype: float64",,,,,,,,
+116,23150,MH에탄올,"0    0.099809
+Name: Correlation, dtype: float64",,,,,,,,
+117,35420,NAVER,"0    0.082941
+Name: Correlation, dtype: float64",,,,,,,,
+118,181710,NHN,"0    0.13696
+Name: Correlation, dtype: float64",,,,,,,,
+119,400760,NH올원리츠,"0    0.156233
+Name: Correlation, dtype: float64",,,,,,,,
+120,5940,NH투자증권,"0    0.140202
+Name: Correlation, dtype: float64",,,,,,,,
+121,5945,NH투자증권우,"0    0.181676
+Name: Correlation, dtype: float64",,,,,,,,
+122,338100,NH프라임리츠,"0    0.063201
+Name: Correlation, dtype: float64",,,,,,,,
+123,34310,NICE,"0    0.154603
+Name: Correlation, dtype: float64",,,,,,,,
+124,30190,NICE평가정보,"0    0.163091
+Name: Correlation, dtype: float64",,,,,,,,
+125,8260,NI스틸,"0    0.087972
+Name: Correlation, dtype: float64",,,,,,,,
+126,4250,NPC,"0    0.115665
+Name: Correlation, dtype: float64",,,,,,,,
+127,4255,NPC우,"0    0.123331
+Name: Correlation, dtype: float64",,,,,,,,
+128,456040,OCI,"0   NaN
+Name: Correlation, dtype: float64",,,,,,,,
+129,10060,OCI홀딩스,"0    0.113165
+Name: Correlation, dtype: float64",,,,,,,,
+130,178920,PI첨단소재,"0    0.17749
+Name: Correlation, dtype: float64",,,,,,,,
+131,5490,POSCO홀딩스,"0    0.109798
+Name: Correlation, dtype: float64",,,,,,,,
+132,10950,S-Oil,"0    0.127296
+Name: Correlation, dtype: float64",,,,,,,,
+133,10955,S-Oil우,"0    0.108243
+Name: Correlation, dtype: float64",,,,,,,,
+134,34120,SBS,"0    0.0973
+Name: Correlation, dtype: float64",,,,,,,,
+135,5090,SGC에너지,"0    0.087369
+Name: Correlation, dtype: float64",,,,,,,,
+136,1380,SG글로벌,"0    0.129804
+Name: Correlation, dtype: float64",,,,,,,,
+137,4060,SG세계물산,"0    0.143865
+Name: Correlation, dtype: float64",,,,,,,,
+138,1770,SHD,"0    0.130277
+Name: Correlation, dtype: float64",,,,,,,,
+139,2360,SH에너지화학,"0    0.107608
+Name: Correlation, dtype: float64",,,,,,,,
+140,9160,SIMPAC,"0    0.072266
+Name: Correlation, dtype: float64",,,,,,,,
+141,123700,SJM,"0    0.131458
+Name: Correlation, dtype: float64",,,,,,,,
+142,25530,SJM홀딩스,"0    0.155167
+Name: Correlation, dtype: float64",,,,,,,,
+143,34730,SK,"0    0.085528
+Name: Correlation, dtype: float64",,,,,,,,
+144,11790,SKC,"0    0.107792
+Name: Correlation, dtype: float64",,,,,,,,
+145,18670,SK가스,"0    0.127463
+Name: Correlation, dtype: float64",,,,,,,,
+146,1740,SK네트웍스,"0    0.100361
+Name: Correlation, dtype: float64",,,,,,,,
+147,6120,SK디스커버리,"0    0.066577
+Name: Correlation, dtype: float64",,,,,,,,
+148,6125,SK디스커버리우,"0    0.139267
+Name: Correlation, dtype: float64",,,,,,,,
+149,210980,SK디앤디,"0    0.137246
+Name: Correlation, dtype: float64",,,,,,,,
+150,395400,SK리츠,"0    0.141137
+Name: Correlation, dtype: float64",,,,,,,,
+151,302440,SK바이오사이언스,"0    0.085839
+Name: Correlation, dtype: float64",,,,,,,,
+152,326030,SK바이오팜,"0    0.102592
+Name: Correlation, dtype: float64",,,,,,,,
+153,402340,SK스퀘어,"0    0.126599
+Name: Correlation, dtype: float64",,,,,,,,
+154,361610,SK아이이테크놀로지,"0    0.084267
+Name: Correlation, dtype: float64",,,,,,,,
+155,100090,SK오션플랜트,"0    0.12207
+Name: Correlation, dtype: float64",,,,,,,,
+156,03473K,SK우,"0    0.136604
+Name: Correlation, dtype: float64",,,,,,,,
+157,96770,SK이노베이션,"0    0.134302
+Name: Correlation, dtype: float64",,,,,,,,
+158,96775,SK이노베이션우,"0    0.156165
+Name: Correlation, dtype: float64",,,,,,,,
+159,1510,SK증권,"0    0.118793
+Name: Correlation, dtype: float64",,,,,,,,
+160,1515,SK증권우,"0    0.093203
+Name: Correlation, dtype: float64",,,,,,,,
+161,285130,SK케미칼,"0    0.164007
+Name: Correlation, dtype: float64",,,,,,,,
+162,28513K,SK케미칼우,"0    0.103804
+Name: Correlation, dtype: float64",,,,,,,,
+163,17670,SK텔레콤,"0    0.114977
+Name: Correlation, dtype: float64",,,,,,,,
+164,660,SK하이닉스,"0    0.091939
+Name: Correlation, dtype: float64",,,,,,,,
+165,3570,SNT다이내믹스,"0    0.135638
+Name: Correlation, dtype: float64",,,,,,,,
+166,64960,SNT모티브,"0    0.116687
+Name: Correlation, dtype: float64",,,,,,,,
+167,100840,SNT에너지,"0    0.207
+Name: Correlation, dtype: float64",,,,,,,,
+168,36530,SNT홀딩스,"0    0.163518
+Name: Correlation, dtype: float64",,,,,,,,
+169,5610,SPC삼립,"0    0.123753
+Name: Correlation, dtype: float64",,,,,,,,
+170,11810,STX,"0    0.113776
+Name: Correlation, dtype: float64",,,,,,,,
+171,465770,STX그린로지스,"0   NaN
+Name: Correlation, dtype: float64",,,,,,,,
+172,77970,STX엔진,"0    0.120114
+Name: Correlation, dtype: float64",,,,,,,,
+173,71970,STX중공업,"0    0.093424
+Name: Correlation, dtype: float64",,,,,,,,
+174,2820,SUN&L,"0    0.14972
+Name: Correlation, dtype: float64",,,,,,,,
+175,84870,TBH글로벌,"0    0.112136
+Name: Correlation, dtype: float64",,,,,,,,
+176,2710,TCC스틸,"0    0.127486
+Name: Correlation, dtype: float64",,,,,,,,
+177,69260,TKG휴켐스,"0    0.128834
+Name: Correlation, dtype: float64",,,,,,,,
+178,2900,TYM,"0    0.11828
+Name: Correlation, dtype: float64",,,,,,,,
+179,24070,WISCOM,"0    0.165108
+Name: Correlation, dtype: float64",,,,,,,,
+180,37270,YG PLUS,"0    0.099235
+Name: Correlation, dtype: float64",,,,,,,,
+181,500,가온전선,"0    0.077814
+Name: Correlation, dtype: float64",,,,,,,,
+182,860,강남제비스코,"0    0.099973
+Name: Correlation, dtype: float64",,,,,,,,
+183,35250,강원랜드,"0    0.096531
+Name: Correlation, dtype: float64",,,,,,,,
+184,11420,갤럭시아에스엠,"0    0.124274
+Name: Correlation, dtype: float64",,,,,,,,
+185,2100,경농,"0    0.133443
+Name: Correlation, dtype: float64",,,,,,,,
+186,9450,경동나비엔,"0    0.093283
+Name: Correlation, dtype: float64",,,,,,,,
+187,267290,경동도시가스,"0    0.108324
+Name: Correlation, dtype: float64",,,,,,,,
+188,12320,경동인베스트,"0    0.102203
+Name: Correlation, dtype: float64",,,,,,,,
+189,50,경방,"0    0.1268
+Name: Correlation, dtype: float64",,,,,,,,
+190,214390,경보제약,"0    0.125504
+Name: Correlation, dtype: float64",,,,,,,,
+191,12610,경인양행,"0    0.128833
+Name: Correlation, dtype: float64",,,,,,,,
+192,9140,경인전자,"0    0.207052
+Name: Correlation, dtype: float64",,,,,,,,
+193,13580,계룡건설,"0    0.146369
+Name: Correlation, dtype: float64",,,,,,,,
+194,12200,계양전기,"0    0.099955
+Name: Correlation, dtype: float64",,,,,,,,
+195,12205,계양전기우,"0    0.146488
+Name: Correlation, dtype: float64",,,,,,,,
+196,2140,고려산업,"0    0.113774
+Name: Correlation, dtype: float64",,,,,,,,
+197,10130,고려아연,"0    0.078084
+Name: Correlation, dtype: float64",,,,,,,,
+198,2240,고려제강,"0    0.151733
+Name: Correlation, dtype: float64",,,,,,,,
+199,9290,광동제약,"0    0.12866
+Name: Correlation, dtype: float64",,,,,,,,
+200,17040,광명전기,"0    0.13239
+Name: Correlation, dtype: float64",,,,,,,,
+201,17900,광전자,"0    0.110487
+Name: Correlation, dtype: float64",,,,,,,,
+202,37710,광주신세계,"0    0.14322
+Name: Correlation, dtype: float64",,,,,,,,
+203,30610,교보증권,"0    0.125763
+Name: Correlation, dtype: float64",,,,,,,,
+204,339770,교촌에프앤비,"0    0.180785
+Name: Correlation, dtype: float64",,,,,,,,
+205,7690,국도화학,"0    0.123416
+Name: Correlation, dtype: float64",,,,,,,,
+206,5320,국동,"0    0.143378
+Name: Correlation, dtype: float64",,,,,,,,
+207,1140,국보,"0    0.076754
+Name: Correlation, dtype: float64",,,,,,,,
+208,2720,국제약품,"0    0.12318
+Name: Correlation, dtype: float64",,,,,,,,
+209,83420,그린케미칼,"0    0.091334
+Name: Correlation, dtype: float64",,,,,,,,
+210,14530,극동유화,"0    0.141402
+Name: Correlation, dtype: float64",,,,,,,,
+211,14280,금강공업,"0    0.106295
+Name: Correlation, dtype: float64",,,,,,,,
+212,14285,금강공업우,"0    0.102893
+Name: Correlation, dtype: float64",,,,,,,,
+213,8870,금비,"0    0.085398
+Name: Correlation, dtype: float64",,,,,,,,
+214,1570,금양,"0    0.113259
+Name: Correlation, dtype: float64",,,,,,,,
+215,2990,금호건설,"0    0.174514
+Name: Correlation, dtype: float64",,,,,,,,
+216,2995,금호건설우,"0    0.156539
+Name: Correlation, dtype: float64",,,,,,,,
+217,11780,금호석유,"0    0.160114
+Name: Correlation, dtype: float64",,,,,,,,
+218,11785,금호석유우,"0    0.189465
+Name: Correlation, dtype: float64",,,,,,,,
+219,214330,금호에이치티,"0    0.138316
+Name: Correlation, dtype: float64",,,,,,,,
+220,1210,금호전기,"0    0.14271
+Name: Correlation, dtype: float64",,,,,,,,
+221,73240,금호타이어,"0    0.128895
+Name: Correlation, dtype: float64",,,,,,,,
+222,92440,기신정기,"0    0.174359
+Name: Correlation, dtype: float64",,,,,,,,
+223,270,기아,"0    0.166906
+Name: Correlation, dtype: float64",,,,,,,,
+224,24110,기업은행,"0    0.120208
+Name: Correlation, dtype: float64",,,,,,,,
+225,13700,까뮤이앤씨,"0    0.12042
+Name: Correlation, dtype: float64",,,,,,,,
+226,4540,깨끗한나라,"0    0.131236
+Name: Correlation, dtype: float64",,,,,,,,
+227,4545,깨끗한나라우,"0    0.126157
+Name: Correlation, dtype: float64",,,,,,,,
+228,1260,남광토건,"0    0.132299
+Name: Correlation, dtype: float64",,,,,,,,
+229,8350,남선알미늄,"0    0.098416
+Name: Correlation, dtype: float64",,,,,,,,
+230,8355,남선알미우,"0    0.140608
+Name: Correlation, dtype: float64",,,,,,,,
+231,4270,남성,"0    0.148929
+Name: Correlation, dtype: float64",,,,,,,,
+232,3920,남양유업,"0    0.069492
+Name: Correlation, dtype: float64",,,,,,,,
+233,3925,남양유업우,"0    0.107741
+Name: Correlation, dtype: float64",,,,,,,,
+234,25860,남해화학,"0    0.119134
+Name: Correlation, dtype: float64",,,,,,,,
+235,5720,넥센,"0    0.153384
+Name: Correlation, dtype: float64",,,,,,,,
+236,5725,넥센우,"0    0.162346
+Name: Correlation, dtype: float64",,,,,,,,
+237,2350,넥센타이어,"0    0.089018
+Name: Correlation, dtype: float64",,,,,,,,
+238,2355,넥센타이어1우B,"0    0.16405
+Name: Correlation, dtype: float64",,,,,,,,
+239,92790,넥스틸,"0   NaN
+Name: Correlation, dtype: float64",,,,,,,,
+240,251270,넷마블,"0    0.138001
+Name: Correlation, dtype: float64",,,,,,,,
+241,90350,노루페인트,"0    0.130395
+Name: Correlation, dtype: float64",,,,,,,,
+242,90355,노루페인트우,"0    0.132686
+Name: Correlation, dtype: float64",,,,,,,,
+243,320,노루홀딩스,"0    0.119829
+Name: Correlation, dtype: float64",,,,,,,,
+244,325,노루홀딩스우,"0    0.083001
+Name: Correlation, dtype: float64",,,,,,,,
+245,6280,녹십자,"0    0.132141
+Name: Correlation, dtype: float64",,,,,,,,
+246,5250,녹십자홀딩스,"0    0.114327
+Name: Correlation, dtype: float64",,,,,,,,
+247,5257,녹십자홀딩스2우,"0    0.091479
+Name: Correlation, dtype: float64",,,,,,,,
+248,4370,농심,"0    0.130038
+Name: Correlation, dtype: float64",,,,,,,,
+249,72710,농심홀딩스,"0    0.145158
+Name: Correlation, dtype: float64",,,,,,,,
+250,58730,다스코,"0    0.167808
+Name: Correlation, dtype: float64",,,,,,,,
+251,30210,다올투자증권,"0    0.172991
+Name: Correlation, dtype: float64",,,,,,,,
+252,23590,다우기술,"0    0.187416
+Name: Correlation, dtype: float64",,,,,,,,
+253,145210,다이나믹디자인,"0    0.133661
+Name: Correlation, dtype: float64",,,,,,,,
+254,19680,대교,"0    0.112642
+Name: Correlation, dtype: float64",,,,,,,,
+255,19685,대교우B,"0    0.224683
+Name: Correlation, dtype: float64",,,,,,,,
+256,6370,대구백화점,"0    0.099966
+Name: Correlation, dtype: float64",,,,,,,,
+257,8060,대덕,"0    0.120981
+Name: Correlation, dtype: float64",,,,,,,,
+258,00806K,대덕1우,"0    0.102108
+Name: Correlation, dtype: float64",,,,,,,,
+259,353200,대덕전자,"0    0.107742
+Name: Correlation, dtype: float64",,,,,,,,
+260,35320K,대덕전자1우,"0    0.086156
+Name: Correlation, dtype: float64",,,,,,,,
+261,490,대동,"0    0.10836
+Name: Correlation, dtype: float64",,,,,,,,
+262,8110,대동전자,"0    0.126192
+Name: Correlation, dtype: float64",,,,,,,,
+263,5750,대림B&Co,"0    0.126579
+Name: Correlation, dtype: float64",,,,,,,,
+264,6570,대림통상,"0    0.155782
+Name: Correlation, dtype: float64",,,,,,,,
+265,1680,대상,"0    0.142047
+Name: Correlation, dtype: float64",,,,,,,,
+266,1685,대상우,"0    0.133208
+Name: Correlation, dtype: float64",,,,,,,,
+267,84690,대상홀딩스,"0    0.168747
+Name: Correlation, dtype: float64",,,,,,,,
+268,84695,대상홀딩스우,"0    0.062093
+Name: Correlation, dtype: float64",,,,,,,,
+269,128820,대성산업,"0    0.131258
+Name: Correlation, dtype: float64",,,,,,,,
+270,117580,대성에너지,"0    0.158488
+Name: Correlation, dtype: float64",,,,,,,,
+271,16710,대성홀딩스,"0    0.197061
+Name: Correlation, dtype: float64",,,,,,,,
+272,3540,대신증권,"0    0.103113
+Name: Correlation, dtype: float64",,,,,,,,
+273,3547,대신증권2우B,"0    0.190539
+Name: Correlation, dtype: float64",,,,,,,,
+274,3545,대신증권우,"0    0.238753
+Name: Correlation, dtype: float64",,,,,,,,
+275,9190,대양금속,"0    0.093489
+Name: Correlation, dtype: float64",,,,,,,,
+276,14160,대영포장,"0    0.202538
+Name: Correlation, dtype: float64",,,,,,,,
+277,47040,대우건설,"0    0.117851
+Name: Correlation, dtype: float64",,,,,,,,
+278,9320,대우부품,"0    0.178991
+Name: Correlation, dtype: float64",,,,,,,,
+279,3090,대웅,"0    0.085538
+Name: Correlation, dtype: float64",,,,,,,,
+280,69620,대웅제약,"0    0.130803
+Name: Correlation, dtype: float64",,,,,,,,
+281,430,대원강업,"0    0.103058
+Name: Correlation, dtype: float64",,,,,,,,
+282,6340,대원전선,"0    0.130003
+Name: Correlation, dtype: float64",,,,,,,,
+283,6345,대원전선우,"0    0.104044
+Name: Correlation, dtype: float64",,,,,,,,
+284,3220,대원제약,"0    0.119116
+Name: Correlation, dtype: float64",,,,,,,,
+285,24890,대원화성,"0    0.197125
+Name: Correlation, dtype: float64",,,,,,,,
+286,2880,대유에이텍,"0    0.154988
+Name: Correlation, dtype: float64",,,,,,,,
+287,300,대유플러스,"0    0.099622
+Name: Correlation, dtype: float64",,,,,,,,
+288,12800,대창,"0    0.159011
+Name: Correlation, dtype: float64",,,,,,,,
+289,15230,대창단조,"0    0.107925
+Name: Correlation, dtype: float64",,,,,,,,
+290,1070,대한방직,"0    0.155609
+Name: Correlation, dtype: float64",,,,,,,,
+291,6650,대한유화,"0    0.078712
+Name: Correlation, dtype: float64",,,,,,,,
+292,1440,대한전선,"0    0.11526
+Name: Correlation, dtype: float64",,,,,,,,
+293,84010,대한제강,"0    0.105146
+Name: Correlation, dtype: float64",,,,,,,,
+294,1790,대한제당,"0    0.109176
+Name: Correlation, dtype: float64",,,,,,,,
+295,1795,대한제당우,"0    0.124495
+Name: Correlation, dtype: float64",,,,,,,,
+296,1130,대한제분,"0    0.145077
+Name: Correlation, dtype: float64",,,,,,,,
+297,3490,대한항공,"0    0.151588
+Name: Correlation, dtype: float64",,,,,,,,
+298,3495,대한항공우,"0    0.120614
+Name: Correlation, dtype: float64",,,,,,,,
+299,5880,대한해운,"0    0.071818
+Name: Correlation, dtype: float64",,,,,,,,
+300,3830,대한화섬,"0    0.10823
+Name: Correlation, dtype: float64",,,,,,,,
+301,16090,대현,"0    0.113148
+Name: Correlation, dtype: float64",,,,,,,,
+302,69460,대호에이엘,"0    0.146597
+Name: Correlation, dtype: float64",,,,,,,,
+303,192080,더블유게임즈,"0    0.113034
+Name: Correlation, dtype: float64",,,,,,,,
+304,12510,더존비즈온,"0    0.111976
+Name: Correlation, dtype: float64",,,,,,,,
+305,4830,덕성,"0    0.106246
+Name: Correlation, dtype: float64",,,,,,,,
+306,4835,덕성우,"0    0.139618
+Name: Correlation, dtype: float64",,,,,,,,
+307,24900,덕양산업,"0    0.108376
+Name: Correlation, dtype: float64",,,,,,,,
+308,145720,덴티움,"0    0.110575
+Name: Correlation, dtype: float64",,,,,,,,
+309,2150,도화엔지니어링,"0    0.141629
+Name: Correlation, dtype: float64",,,,,,,,
+310,460850,동국씨엠,"0   NaN
+Name: Correlation, dtype: float64",,,,,,,,
+311,460860,동국제강,"0   NaN
+Name: Correlation, dtype: float64",,,,,,,,
+312,1230,동국홀딩스,"0    0.186576
+Name: Correlation, dtype: float64",,,,,,,,
+313,23450,동남합성,"0    0.14246
+Name: Correlation, dtype: float64",,,,,,,,
+314,4140,동방,"0    0.109037
+Name: Correlation, dtype: float64",,,,,,,,
+315,7590,동방아그로,"0    0.142263
+Name: Correlation, dtype: float64",,,,,,,,
+316,5960,동부건설,"0    0.125425
+Name: Correlation, dtype: float64",,,,,,,,
+317,5965,동부건설우,"0    0.096924
+Name: Correlation, dtype: float64",,,,,,,,
+318,26960,동서,"0    0.142514
+Name: Correlation, dtype: float64",,,,,,,,
+319,2210,동성제약,"0    0.114873
+Name: Correlation, dtype: float64",,,,,,,,
+320,102260,동성케미컬,"0    0.164307
+Name: Correlation, dtype: float64",,,,,,,,
+321,640,동아쏘시오홀딩스,"0    0.170628
+Name: Correlation, dtype: float64",,,,,,,,
+322,170900,동아에스티,"0    0.107577
+Name: Correlation, dtype: float64",,,,,,,,
+323,28100,동아지질,"0    0.126861
+Name: Correlation, dtype: float64",,,,,,,,
+324,282690,동아타이어,"0    0.102543
+Name: Correlation, dtype: float64",,,,,,,,
+325,1520,동양,"0    0.127636
+Name: Correlation, dtype: float64",,,,,,,,
+326,1527,동양2우B,"0    0.232964
+Name: Correlation, dtype: float64",,,,,,,,
+327,84670,동양고속,"0    0.104578
+Name: Correlation, dtype: float64",,,,,,,,
+328,82640,동양생명,"0    0.100588
+Name: Correlation, dtype: float64",,,,,,,,
+329,1525,동양우,"0    0.175072
+Name: Correlation, dtype: float64",,,,,,,,
+330,8970,동양철관,"0    0.135965
+Name: Correlation, dtype: float64",,,,,,,,
+331,92780,동양피스톤,"0    0.115099
+Name: Correlation, dtype: float64",,,,,,,,
+332,49770,동원F&B,"0    0.13181
+Name: Correlation, dtype: float64",,,,,,,,
+333,18500,동원금속,"0    0.109707
+Name: Correlation, dtype: float64",,,,,,,,
+334,6040,동원산업,"0    0.082185
+Name: Correlation, dtype: float64",,,,,,,,
+335,30720,동원수산,"0    0.093888
+Name: Correlation, dtype: float64",,,,,,,,
+336,14820,동원시스템즈,"0    0.168062
+Name: Correlation, dtype: float64",,,,,,,,
+337,14825,동원시스템즈우,"0    0.142926
+Name: Correlation, dtype: float64",,,,,,,,
+338,111380,동인기연,"0   NaN
+Name: Correlation, dtype: float64",,,,,,,,
+339,163560,동일고무벨트,"0    0.20081
+Name: Correlation, dtype: float64",,,,,,,,
+340,4890,동일산업,"0    0.09958
+Name: Correlation, dtype: float64",,,,,,,,
+341,2690,동일제강,"0    0.096363
+Name: Correlation, dtype: float64",,,,,,,,
+342,20,동화약품,"0    0.101096
+Name: Correlation, dtype: float64",,,,,,,,
+343,150,두산,"0    0.168596
+Name: Correlation, dtype: float64",,,,,,,,
+344,157,두산2우B,"0    0.151782
+Name: Correlation, dtype: float64",,,,,,,,
+345,454910,두산로보틱스,"0   NaN
+Name: Correlation, dtype: float64",,,,,,,,
+346,241560,두산밥캣,"0    0.16961
+Name: Correlation, dtype: float64",,,,,,,,
+347,34020,두산에너빌리티,"0    0.15435
+Name: Correlation, dtype: float64",,,,,,,,
+348,155,두산우,"0    0.091325
+Name: Correlation, dtype: float64",,,,,,,,
+349,336260,두산퓨얼셀,"0    0.14432
+Name: Correlation, dtype: float64",,,,,,,,
+350,33626K,두산퓨얼셀1우,"0    0.145105
+Name: Correlation, dtype: float64",,,,,,,,
+351,33626L,두산퓨얼셀2우B,"0    0.190575
+Name: Correlation, dtype: float64",,,,,,,,
+352,16740,두올,"0    0.096019
+Name: Correlation, dtype: float64",,,,,,,,
+353,192650,드림텍,"0    0.129177
+Name: Correlation, dtype: float64",,,,,,,,
+354,24090,디씨엠,"0    0.117234
+Name: Correlation, dtype: float64",,,,,,,,
+355,3160,디아이,"0    0.104769
+Name: Correlation, dtype: float64",,,,,,,,
+356,92200,디아이씨,"0    0.108682
+Name: Correlation, dtype: float64",,,,,,,,
+357,377190,디앤디플랫폼리츠,"0    0.18385
+Name: Correlation, dtype: float64",,,,,,,,
+358,13570,디와이,"0    0.1432
+Name: Correlation, dtype: float64",,,,,,,,
+359,210540,디와이파워,"0    0.074319
+Name: Correlation, dtype: float64",,,,,,,,
+360,115390,락앤락,"0    0.084382
+Name: Correlation, dtype: float64",,,,,,,,
+361,32350,롯데관광개발,"0    0.140863
+Name: Correlation, dtype: float64",,,,,,,,
+362,89860,롯데렌탈,"0    0.145019
+Name: Correlation, dtype: float64",,,,,,,,
+363,330590,롯데리츠,"0    0.123551
+Name: Correlation, dtype: float64",,,,,,,,
+364,400,롯데손해보험,"0    0.107109
+Name: Correlation, dtype: float64",,,,,,,,
+365,23530,롯데쇼핑,"0    0.133226
+Name: Correlation, dtype: float64",,,,,,,,
+366,20150,롯데에너지머티리얼즈,"0    0.147015
+Name: Correlation, dtype: float64",,,,,,,,
+367,280360,롯데웰푸드,"0    0.114272
+Name: Correlation, dtype: float64",,,,,,,,
+368,4000,롯데정밀화학,"0    0.109853
+Name: Correlation, dtype: float64",,,,,,,,
+369,286940,롯데정보통신,"0    0.128233
+Name: Correlation, dtype: float64",,,,,,,,
+370,4990,롯데지주,"0    0.0963
+Name: Correlation, dtype: float64",,,,,,,,
+371,00499K,롯데지주우,"0    0.191817
+Name: Correlation, dtype: float64",,,,,,,,
+372,5300,롯데칠성,"0    0.155517
+Name: Correlation, dtype: float64",,,,,,,,
+373,5305,롯데칠성우,"0    0.127868
+Name: Correlation, dtype: float64",,,,,,,,
+374,11170,롯데케미칼,"0    0.147091
+Name: Correlation, dtype: float64",,,,,,,,
+375,71840,롯데하이마트,"0    0.13586
+Name: Correlation, dtype: float64",,,,,,,,
+376,27740,마니커,"0    0.124513
+Name: Correlation, dtype: float64",,,,,,,,
+377,357430,마스턴프리미어리츠,"0    0.271728
+Name: Correlation, dtype: float64",,,,,,,,
+378,1080,만호제강,"0    0.166897
+Name: Correlation, dtype: float64",,,,,,,,
+379,88980,맥쿼리인프라,"0    0.155752
+Name: Correlation, dtype: float64",,,,,,,,
+380,94800,맵스리얼티1,"0    0.129557
+Name: Correlation, dtype: float64",,,,,,,,
+381,138040,메리츠금융지주,"0    0.088868
+Name: Correlation, dtype: float64",,,,,,,,
+382,90370,메타랩스,"0    0.096045
+Name: Correlation, dtype: float64",,,,,,,,
+383,17180,명문제약,"0    0.136207
+Name: Correlation, dtype: float64",,,,,,,,
+384,9900,명신산업,"0    0.138405
+Name: Correlation, dtype: float64",,,,,,,,
+385,12690,모나리자,"0    0.169292
+Name: Correlation, dtype: float64",,,,,,,,
+386,5360,모나미,"0    0.156736
+Name: Correlation, dtype: float64",,,,,,,,
+387,9680,모토닉,"0    0.159319
+Name: Correlation, dtype: float64",,,,,,,,
+388,9580,무림P&P,"0    0.084254
+Name: Correlation, dtype: float64",,,,,,,,
+389,9200,무림페이퍼,"0    0.108831
+Name: Correlation, dtype: float64",,,,,,,,
+390,33920,무학,"0    0.1268
+Name: Correlation, dtype: float64",,,,,,,,
+391,8420,문배철강,"0    0.144485
+Name: Correlation, dtype: float64",,,,,,,,
+392,25560,미래산업,"0    0.079737
+Name: Correlation, dtype: float64",,,,,,,,
+393,7120,미래아이앤지,"0    0.108431
+Name: Correlation, dtype: float64",,,,,,,,
+394,396690,미래에셋글로벌리츠,"0    0.317805
+Name: Correlation, dtype: float64",,,,,,,,
+395,357250,미래에셋맵스리츠,"0    0.138718
+Name: Correlation, dtype: float64",,,,,,,,
+396,85620,미래에셋생명,"0    0.180122
+Name: Correlation, dtype: float64",,,,,,,,
+397,6800,미래에셋증권,"0    0.105292
+Name: Correlation, dtype: float64",,,,,,,,
+398,00680K,미래에셋증권2우B,"0    0.117864
+Name: Correlation, dtype: float64",,,,,,,,
+399,6805,미래에셋증권우,"0    0.147572
+Name: Correlation, dtype: float64",,,,,,,,
+400,2840,미원상사,"0    0.160552
+Name: Correlation, dtype: float64",,,,,,,,
+401,268280,미원에스씨,"0    0.104926
+Name: Correlation, dtype: float64",,,,,,,,
+402,107590,미원홀딩스,"0    0.18832
+Name: Correlation, dtype: float64",,,,,,,,
+403,134380,미원화학,"0    0.103362
+Name: Correlation, dtype: float64",,,,,,,,
+404,3650,미창석유,"0    0.148149
+Name: Correlation, dtype: float64",,,,,,,,
+405,377740,바이오노트,"0    0.457341
+Name: Correlation, dtype: float64",,,,,,,,
+406,3610,방림,"0    0.141411
+Name: Correlation, dtype: float64",,,,,,,,
+407,1340,백광산업,"0    0.142613
+Name: Correlation, dtype: float64",,,,,,,,
+408,35150,백산,"0    0.131522
+Name: Correlation, dtype: float64",,,,,,,,
+409,2410,범양건영,"0    0.218141
+Name: Correlation, dtype: float64",,,,,,,,
+410,7210,벽산,"0    0.091263
+Name: Correlation, dtype: float64",,,,,,,,
+411,2760,보락,"0    0.188458
+Name: Correlation, dtype: float64",,,,,,,,
+412,3850,보령,"0    0.203012
+Name: Correlation, dtype: float64",,,,,,,,
+413,890,보해양조,"0    0.128591
+Name: Correlation, dtype: float64",,,,,,,,
+414,3000,부광약품,"0    0.145662
+Name: Correlation, dtype: float64",,,,,,,,
+415,1270,부국증권,"0    0.151388
+Name: Correlation, dtype: float64",,,,,,,,
+416,1275,부국증권우,"0    0.220222
+Name: Correlation, dtype: float64",,,,,,,,
+417,26940,부국철강,"0    0.165427
+Name: Correlation, dtype: float64",,,,,,,,
+418,11390,부산산업,"0    0.096166
+Name: Correlation, dtype: float64",,,,,,,,
+419,5030,부산주공,"0    0.149849
+Name: Correlation, dtype: float64",,,,,,,,
+420,2070,비비안,"0    0.124683
+Name: Correlation, dtype: float64",,,,,,,,
+421,100220,비상교육,"0    0.138304
+Name: Correlation, dtype: float64",,,,,,,,
+422,90460,비에이치,"0    0.131928
+Name: Correlation, dtype: float64",,,,,,,,
+423,30790,비케이탑스,"0   NaN
+Name: Correlation, dtype: float64",,,,,,,,
+424,5180,빙그레,"0    0.09549
+Name: Correlation, dtype: float64",,,,,,,,
+425,3960,사조대림,"0    0.131073
+Name: Correlation, dtype: float64",,,,,,,,
+426,8040,사조동아원,"0    0.130277
+Name: Correlation, dtype: float64",,,,,,,,
+427,7160,사조산업,"0    0.15554
+Name: Correlation, dtype: float64",,,,,,,,
+428,14710,사조씨푸드,"0    0.097311
+Name: Correlation, dtype: float64",,,,,,,,
+429,6090,사조오양,"0    0.091378
+Name: Correlation, dtype: float64",,,,,,,,
+430,1470,삼부토건,"0    0.170479
+Name: Correlation, dtype: float64",,,,,,,,
+431,448730,삼성FN리츠,"0   NaN
+Name: Correlation, dtype: float64",,,,,,,,
+432,6400,삼성SDI,"0    0.091667
+Name: Correlation, dtype: float64",,,,,,,,
+433,6405,삼성SDI우,"0    0.118534
+Name: Correlation, dtype: float64",,,,,,,,
+434,6660,삼성공조,"0    0.140553
+Name: Correlation, dtype: float64",,,,,,,,
+435,28260,삼성물산,"0    0.154187
+Name: Correlation, dtype: float64",,,,,,,,
+436,02826K,삼성물산우B,"0    0.090569
+Name: Correlation, dtype: float64",,,,,,,,
+437,207940,삼성바이오로직스,"0    0.09024
+Name: Correlation, dtype: float64",,,,,,,,
+438,32830,삼성생명,"0    0.113502
+Name: Correlation, dtype: float64",,,,,,,,
+439,18260,삼성에스디에스,"0    0.129858
+Name: Correlation, dtype: float64",,,,,,,,
+440,28050,삼성엔지니어링,"0    0.119246
+Name: Correlation, dtype: float64",,,,,,,,
+441,9150,삼성전기,"0    0.128825
+Name: Correlation, dtype: float64",,,,,,,,
+442,9155,삼성전기우,"0    0.163695
+Name: Correlation, dtype: float64",,,,,,,,
+443,5930,삼성전자,"0    0.145099
+Name: Correlation, dtype: float64",,,,,,,,
+444,5935,삼성전자우,"0    0.163856
+Name: Correlation, dtype: float64",,,,,,,,
+445,1360,삼성제약,"0    0.152955
+Name: Correlation, dtype: float64",,,,,,,,
+446,10140,삼성중공업,"0    0.093737
+Name: Correlation, dtype: float64",,,,,,,,
+447,16360,삼성증권,"0    0.12356
+Name: Correlation, dtype: float64",,,,,,,,
+448,68290,삼성출판사,"0    0.137453
+Name: Correlation, dtype: float64",,,,,,,,
+449,29780,삼성카드,"0    0.181342
+Name: Correlation, dtype: float64",,,,,,,,
+450,810,삼성화재,"0    0.197101
+Name: Correlation, dtype: float64",,,,,,,,
+451,815,삼성화재우,"0    0.114599
+Name: Correlation, dtype: float64",,,,,,,,
+452,6110,삼아알미늄,"0    0.093092
+Name: Correlation, dtype: float64",,,,,,,,
+453,145990,삼양사,"0    0.115588
+Name: Correlation, dtype: float64",,,,,,,,
+454,145995,삼양사우,"0    0.10044
+Name: Correlation, dtype: float64",,,,,,,,
+455,3230,삼양식품,"0    0.113809
+Name: Correlation, dtype: float64",,,,,,,,
+456,2170,삼양통상,"0    0.191882
+Name: Correlation, dtype: float64",,,,,,,,
+457,272550,삼양패키징,"0    0.202981
+Name: Correlation, dtype: float64",,,,,,,,
+458,70,삼양홀딩스,"0    0.106078
+Name: Correlation, dtype: float64",,,,,,,,
+459,75,삼양홀딩스우,"0    0.190217
+Name: Correlation, dtype: float64",,,,,,,,
+460,3720,삼영,"0    0.176604
+Name: Correlation, dtype: float64",,,,,,,,
+461,2810,삼영무역,"0    0.263498
+Name: Correlation, dtype: float64",,,,,,,,
+462,5680,삼영전자,"0    0.15292
+Name: Correlation, dtype: float64",,,,,,,,
+463,23000,삼원강재,"0    0.09628
+Name: Correlation, dtype: float64",,,,,,,,
+464,4380,삼익THK,"0    0.123732
+Name: Correlation, dtype: float64",,,,,,,,
+465,2450,삼익악기,"0    0.188332
+Name: Correlation, dtype: float64",,,,,,,,
+466,4440,삼일씨엔에스,"0    0.114635
+Name: Correlation, dtype: float64",,,,,,,,
+467,520,삼일제약,"0    0.137384
+Name: Correlation, dtype: float64",,,,,,,,
+468,9770,삼정펄프,"0    0.157011
+Name: Correlation, dtype: float64",,,,,,,,
+469,5500,삼진제약,"0    0.171131
+Name: Correlation, dtype: float64",,,,,,,,
+470,4690,삼천리,"0    0.202955
+Name: Correlation, dtype: float64",,,,,,,,
+471,10960,삼호개발,"0    0.176081
+Name: Correlation, dtype: float64",,,,,,,,
+472,4450,삼화왕관,"0    0.182468
+Name: Correlation, dtype: float64",,,,,,,,
+473,9470,삼화전기,"0    0.145624
+Name: Correlation, dtype: float64",,,,,,,,
+474,11230,삼화전자,"0    0.057359
+Name: Correlation, dtype: float64",,,,,,,,
+475,1820,삼화콘덴서,"0    0.089728
+Name: Correlation, dtype: float64",,,,,,,,
+476,390,삼화페인트,"0    0.115594
+Name: Correlation, dtype: float64",,,,,,,,
+477,1290,상상인증권,"0    0.119487
+Name: Correlation, dtype: float64",,,,,,,,
+478,41650,상신브레이크,"0    0.116184
+Name: Correlation, dtype: float64",,,,,,,,
+479,75180,새론오토모티브,"0    0.156497
+Name: Correlation, dtype: float64",,,,,,,,
+480,7540,샘표,"0    0.160382
+Name: Correlation, dtype: float64",,,,,,,,
+481,248170,샘표식품,"0    0.149505
+Name: Correlation, dtype: float64",,,,,,,,
+482,7860,서연,"0    0.119712
+Name: Correlation, dtype: float64",,,,,,,,
+483,200880,서연이화,"0    0.136954
+Name: Correlation, dtype: float64",,,,,,,,
+484,17390,서울가스,"0    0.156687
+Name: Correlation, dtype: float64",,,,,,,,
+485,4410,서울식품,"0    0.160281
+Name: Correlation, dtype: float64",,,,,,,,
+486,4415,서울식품우,"0    0.127238
+Name: Correlation, dtype: float64",,,,,,,,
+487,21050,서원,"0    0.13552
+Name: Correlation, dtype: float64",,,,,,,,
+488,8490,서흥,"0    0.101844
+Name: Correlation, dtype: float64",,,,,,,,
+489,7610,선도전기,"0   NaN
+Name: Correlation, dtype: float64",,,,,,,,
+490,136490,선진,"0    0.14883
+Name: Correlation, dtype: float64",,,,,,,,
+491,14910,성문전자,"0    0.163486
+Name: Correlation, dtype: float64",,,,,,,,
+492,14915,성문전자우,"0    0.199424
+Name: Correlation, dtype: float64",,,,,,,,
+493,3080,성보화학,"0    0.136125
+Name: Correlation, dtype: float64",,,,,,,,
+494,4980,성신양회,"0    0.088678
+Name: Correlation, dtype: float64",,,,,,,,
+495,4985,성신양회우,"0    0.099716
+Name: Correlation, dtype: float64",,,,,,,,
+496,11300,성안,"0    0.127721
+Name: Correlation, dtype: float64",,,,,,,,
+497,180,성창기업지주,"0    0.162495
+Name: Correlation, dtype: float64",,,,,,,,
+498,2420,세기상사,"0    0.152585
+Name: Correlation, dtype: float64",,,,,,,,
+499,4360,세방,"0    0.170241
+Name: Correlation, dtype: float64",,,,,,,,
+500,4365,세방우,"0    0.172042
+Name: Correlation, dtype: float64",,,,,,,,
+501,4490,세방전지,"0    0.083808
+Name: Correlation, dtype: float64",,,,,,,,
+502,1430,세아베스틸지주,"0    0.093189
+Name: Correlation, dtype: float64",,,,,,,,
+503,306200,세아제강,"0    0.116273
+Name: Correlation, dtype: float64",,,,,,,,
+504,3030,세아제강지주,"0    0.148863
+Name: Correlation, dtype: float64",,,,,,,,
+505,19440,세아특수강,"0    0.098326
+Name: Correlation, dtype: float64",,,,,,,,
+506,58650,세아홀딩스,"0    0.133121
+Name: Correlation, dtype: float64",,,,,,,,
+507,13000,세우글로벌,"0    0.165325
+Name: Correlation, dtype: float64",,,,,,,,
+508,91090,세원이앤씨,"0    0.203305
+Name: Correlation, dtype: float64",,,,,,,,
+509,21820,세원정공,"0    0.166354
+Name: Correlation, dtype: float64",,,,,,,,
+510,67830,세이브존I&C,"0    0.14615
+Name: Correlation, dtype: float64",,,,,,,,
+511,33530,세종공업,"0    0.09935
+Name: Correlation, dtype: float64",,,,,,,,
+512,75580,세진중공업,"0    0.103499
+Name: Correlation, dtype: float64",,,,,,,,
+513,68270,셀트리온,"0    0.12599
+Name: Correlation, dtype: float64",,,,,,,,
+514,336370,솔루스첨단소재,"0    0.127784
+Name: Correlation, dtype: float64",,,,,,,,
+515,33637K,솔루스첨단소재1우,"0    0.130657
+Name: Correlation, dtype: float64",,,,,,,,
+516,33637L,솔루스첨단소재2우B,"0    0.1147
+Name: Correlation, dtype: float64",,,,,,,,
+517,248070,솔루엠,"0    0.147591
+Name: Correlation, dtype: float64",,,,,,,,
+518,4430,송원산업,"0    0.085988
+Name: Correlation, dtype: float64",,,,,,,,
+519,126720,수산인더스트리,"0    0.211766
+Name: Correlation, dtype: float64",,,,,,,,
+520,17550,수산중공업,"0    0.104317
+Name: Correlation, dtype: float64",,,,,,,,
+521,53210,스카이라이프,"0    0.086231
+Name: Correlation, dtype: float64",,,,,,,,
+522,204210,스타리츠,"0    0.162978
+Name: Correlation, dtype: float64",,,,,,,,
+523,26890,스틱인베스트먼트,"0    0.090469
+Name: Correlation, dtype: float64",,,,,,,,
+524,134790,시디즈,"0    0.124968
+Name: Correlation, dtype: float64",,,,,,,,
+525,16590,신대양제지,"0    0.276434
+Name: Correlation, dtype: float64",,,,,,,,
+526,29530,신도리코,"0    0.116745
+Name: Correlation, dtype: float64",,,,,,,,
+527,4970,신라교역,"0    0.133061
+Name: Correlation, dtype: float64",,,,,,,,
+528,11930,신성이엔지,"0    0.086061
+Name: Correlation, dtype: float64",,,,,,,,
+529,5390,신성통상,"0    0.118883
+Name: Correlation, dtype: float64",,,,,,,,
+530,4170,신세계,"0    0.153281
+Name: Correlation, dtype: float64",,,,,,,,
+531,35510,신세계 I&C,"0    0.091937
+Name: Correlation, dtype: float64",,,,,,,,
+532,34300,신세계건설,"0    0.155701
+Name: Correlation, dtype: float64",,,,,,,,
+533,31430,신세계인터내셔날,"0    0.104429
+Name: Correlation, dtype: float64",,,,,,,,
+534,31440,신세계푸드,"0    0.117411
+Name: Correlation, dtype: float64",,,,,,,,
+535,6880,신송홀딩스,"0    0.087376
+Name: Correlation, dtype: float64",,,,,,,,
+536,5800,신영와코루,"0    0.185557
+Name: Correlation, dtype: float64",,,,,,,,
+537,1720,신영증권,"0    0.203221
+Name: Correlation, dtype: float64",,,,,,,,
+538,1725,신영증권우,"0    0.260956
+Name: Correlation, dtype: float64",,,,,,,,
+539,9270,신원,"0    0.172333
+Name: Correlation, dtype: float64",,,,,,,,
+540,2700,신일전자,"0    0.129107
+Name: Correlation, dtype: float64",,,,,,,,
+541,2870,신풍,"0    0.157409
+Name: Correlation, dtype: float64",,,,,,,,
+542,19170,신풍제약,"0    0.158856
+Name: Correlation, dtype: float64",,,,,,,,
+543,19175,신풍제약우,"0    0.130894
+Name: Correlation, dtype: float64",,,,,,,,
+544,404990,신한서부티엔디리츠,"0    0.147493
+Name: Correlation, dtype: float64",,,,,,,,
+545,293940,신한알파리츠,"0    0.126228
+Name: Correlation, dtype: float64",,,,,,,,
+546,55550,신한지주,"0    0.157605
+Name: Correlation, dtype: float64",,,,,,,,
+547,4080,신흥,"0    0.192283
+Name: Correlation, dtype: float64",,,,,,,,
+548,102280,쌍방울,"0    0.140077
+Name: Correlation, dtype: float64",,,,,,,,
+549,3410,쌍용C&E,"0    0.131492
+Name: Correlation, dtype: float64",,,,,,,,
+550,4770,써니전자,"0    0.144542
+Name: Correlation, dtype: float64",,,,,,,,
+551,403550,쏘카,"0    0.209821
+Name: Correlation, dtype: float64",,,,,,,,
+552,4920,씨아이테크,"0    0.157198
+Name: Correlation, dtype: float64",,,,,,,,
+553,112610,씨에스윈드,"0    0.083879
+Name: Correlation, dtype: float64",,,,,,,,
+554,308170,씨티알모빌리티,"0    0.10895
+Name: Correlation, dtype: float64",,,,,,,,
+555,8700,아남전자,"0    0.163227
+Name: Correlation, dtype: float64",,,,,,,,
+556,2790,아모레G,"0    0.103142
+Name: Correlation, dtype: float64",,,,,,,,
+557,00279K,아모레G3우(전환),"0    0.12804
+Name: Correlation, dtype: float64",,,,,,,,
+558,2795,아모레G우,"0    0.180165
+Name: Correlation, dtype: float64",,,,,,,,
+559,90430,아모레퍼시픽,"0    0.123558
+Name: Correlation, dtype: float64",,,,,,,,
+560,90435,아모레퍼시픽우,"0    0.15097
+Name: Correlation, dtype: float64",,,,,,,,
+561,2030,아세아,"0    0.15135
+Name: Correlation, dtype: float64",,,,,,,,
+562,183190,아세아시멘트,"0    0.136598
+Name: Correlation, dtype: float64",,,,,,,,
+563,2310,아세아제지,"0    0.106295
+Name: Correlation, dtype: float64",,,,,,,,
+564,12170,아센디오,"0    0.095321
+Name: Correlation, dtype: float64",,,,,,,,
+565,267850,아시아나IDT,"0    0.145183
+Name: Correlation, dtype: float64",,,,,,,,
+566,20560,아시아나항공,"0    0.141329
+Name: Correlation, dtype: float64",,,,,,,,
+567,122900,아이마켓코리아,"0    0.110638
+Name: Correlation, dtype: float64",,,,,,,,
+568,10780,아이에스동서,"0    0.126793
+Name: Correlation, dtype: float64",,,,,,,,
+569,139990,아주스틸,"0    0.113949
+Name: Correlation, dtype: float64",,,,,,,,
+570,1780,알루코,"0    0.128871
+Name: Correlation, dtype: float64",,,,,,,,
+571,18250,애경산업,"0    0.142753
+Name: Correlation, dtype: float64",,,,,,,,
+572,161000,애경케미칼,"0    0.093655
+Name: Correlation, dtype: float64",,,,,,,,
+573,11090,에넥스,"0    0.116008
+Name: Correlation, dtype: float64",,,,,,,,
+574,137310,에스디바이오센서,"0    0.163773
+Name: Correlation, dtype: float64",,,,,,,,
+575,118000,에스메디,"0    0.130831
+Name: Correlation, dtype: float64",,,,,,,,
+576,5850,에스엘,"0    0.123054
+Name: Correlation, dtype: float64",,,,,,,,
+577,10580,에스엠벡셀,"0    0.112761
+Name: Correlation, dtype: float64",,,,,,,,
+578,12750,에스원,"0    0.115494
+Name: Correlation, dtype: float64",,,,,,,,
+579,23960,에쓰씨엔지니어링,"0    0.120859
+Name: Correlation, dtype: float64",,,,,,,,
+580,298690,에어부산,"0    0.134777
+Name: Correlation, dtype: float64",,,,,,,,
+581,140910,에이리츠,"0    0.096534
+Name: Correlation, dtype: float64",,,,,,,,
+582,78520,에이블씨엔씨,"0    0.075023
+Name: Correlation, dtype: float64",,,,,,,,
+583,15260,에이엔피,"0    0.101241
+Name: Correlation, dtype: float64",,,,,,,,
+584,7460,에이프로젠,"0    0.115582
+Name: Correlation, dtype: float64",,,,,,,,
+585,3060,에이프로젠바이오로직스,"0    0.182111
+Name: Correlation, dtype: float64",,,,,,,,
+586,244920,에이플러스에셋,"0    0.134665
+Name: Correlation, dtype: float64",,,,,,,,
+587,278470,에이피알,"0   NaN
+Name: Correlation, dtype: float64",,,,,,,,
+588,450080,에코프로머티,"0   NaN
+Name: Correlation, dtype: float64",,,,,,,,
+589,36570,엔씨소프트,"0    0.111153
+Name: Correlation, dtype: float64",,,,,,,,
+590,85310,엔케이,"0    0.114676
+Name: Correlation, dtype: float64",,,,,,,,
+591,900140,엘브이엠씨홀딩스,"0    0.108016
+Name: Correlation, dtype: float64",,,,,,,,
+592,66970,엘앤에프,"0    0.15599
+Name: Correlation, dtype: float64",,,,,,,,
+593,97520,엠씨넥스,"0    0.128049
+Name: Correlation, dtype: float64",,,,,,,,
+594,14440,영보화학,"0    0.151977
+Name: Correlation, dtype: float64",,,,,,,,
+595,111770,영원무역,"0    0.111541
+Name: Correlation, dtype: float64",,,,,,,,
+596,9970,영원무역홀딩스,"0    0.104367
+Name: Correlation, dtype: float64",,,,,,,,
+597,3520,영진약품,"0    0.112462
+Name: Correlation, dtype: float64",,,,,,,,
+598,670,영풍,"0    0.16244
+Name: Correlation, dtype: float64",,,,,,,,
+599,6740,영풍제지,"0    0.169537
+Name: Correlation, dtype: float64",,,,,,,,
+600,12280,영화금속,"0    0.108143
+Name: Correlation, dtype: float64",,,,,,,,
+601,12160,영흥,"0    0.113923
+Name: Correlation, dtype: float64",,,,,,,,
+602,15360,예스코홀딩스,"0    0.100742
+Name: Correlation, dtype: float64",,,,,,,,
+603,7310,오뚜기,"0    0.151989
+Name: Correlation, dtype: float64",,,,,,,,
+604,2630,오리엔트바이오,"0    0.139915
+Name: Correlation, dtype: float64",,,,,,,,
+605,271560,오리온,"0    0.155903
+Name: Correlation, dtype: float64",,,,,,,,
+606,1800,오리온홀딩스,"0    0.130076
+Name: Correlation, dtype: float64",,,,,,,,
+607,11690,와이투솔루션,"0    0.145241
+Name: Correlation, dtype: float64",,,,,,,,
+608,70960,용평리조트,"0    0.104073
+Name: Correlation, dtype: float64",,,,,,,,
+609,316140,우리금융지주,"0    0.130155
+Name: Correlation, dtype: float64",,,,,,,,
+610,6980,우성,"0    0.14185
+Name: Correlation, dtype: float64",,,,,,,,
+611,17370,우신시스템,"0    0.075663
+Name: Correlation, dtype: float64",,,,,,,,
+612,105840,우진,"0    0.104182
+Name: Correlation, dtype: float64",,,,,,,,
+613,10400,우진아이엔에스,"0    0.146913
+Name: Correlation, dtype: float64",,,,,,,,
+614,49800,우진플라임,"0    0.193146
+Name: Correlation, dtype: float64",,,,,,,,
+615,16880,웅진,"0    0.141368
+Name: Correlation, dtype: float64",,,,,,,,
+616,95720,웅진씽크빅,"0    0.120495
+Name: Correlation, dtype: float64",,,,,,,,
+617,5820,원림,"0    0.153707
+Name: Correlation, dtype: float64",,,,,,,,
+618,10600,웰바이오텍,"0    0.091159
+Name: Correlation, dtype: float64",,,,,,,,
+619,8600,윌비스,"0    0.126016
+Name: Correlation, dtype: float64",,,,,,,,
+620,33270,유나이티드제약,"0    0.149824
+Name: Correlation, dtype: float64",,,,,,,,
+621,14830,유니드,"0    0.080809
+Name: Correlation, dtype: float64",,,,,,,,
+622,446070,유니드비티플러스,"0    0.216633
+Name: Correlation, dtype: float64",,,,,,,,
+623,910,유니온,"0    0.141038
+Name: Correlation, dtype: float64",,,,,,,,
+624,47400,유니온머티리얼,"0    0.138214
+Name: Correlation, dtype: float64",,,,,,,,
+625,11330,유니켐,"0    0.114548
+Name: Correlation, dtype: float64",,,,,,,,
+626,77500,유니퀘스트,"0    0.085356
+Name: Correlation, dtype: float64",,,,,,,,
+627,2920,유성기업,"0    0.169505
+Name: Correlation, dtype: float64",,,,,,,,
+628,700,유수홀딩스,"0    0.13848
+Name: Correlation, dtype: float64",,,,,,,,
+629,3470,유안타증권,"0    0.118259
+Name: Correlation, dtype: float64",,,,,,,,
+630,3475,유안타증권우,"0    0.083334
+Name: Correlation, dtype: float64",,,,,,,,
+631,72130,유엔젤,"0    0.08112
+Name: Correlation, dtype: float64",,,,,,,,
+632,220,유유제약,"0    0.113062
+Name: Correlation, dtype: float64",,,,,,,,
+633,225,유유제약1우,"0    0.168618
+Name: Correlation, dtype: float64",,,,,,,,
+634,227,유유제약2우B,"0    0.156071
+Name: Correlation, dtype: float64",,,,,,,,
+635,1200,유진투자증권,"0    0.152898
+Name: Correlation, dtype: float64",,,,,,,,
+636,100,유한양행,"0    0.106734
+Name: Correlation, dtype: float64",,,,,,,,
+637,105,유한양행우,"0    0.112213
+Name: Correlation, dtype: float64",,,,,,,,
+638,3460,유화증권,"0    0.154154
+Name: Correlation, dtype: float64",,,,,,,,
+639,3465,유화증권우,"0    0.287981
+Name: Correlation, dtype: float64",,,,,,,,
+640,8730,율촌화학,"0    0.100669
+Name: Correlation, dtype: float64",,,,,,,,
+641,8250,이건산업,"0    0.126106
+Name: Correlation, dtype: float64",,,,,,,,
+642,25820,이구산업,"0    0.100946
+Name: Correlation, dtype: float64",,,,,,,,
+643,214320,이노션,"0    0.165469
+Name: Correlation, dtype: float64",,,,,,,,
+644,88260,이리츠코크렙,"0    0.137058
+Name: Correlation, dtype: float64",,,,,,,,
+645,139480,이마트,"0    0.13066
+Name: Correlation, dtype: float64",,,,,,,,
+646,457190,이수스페셜티케미컬,"0   NaN
+Name: Correlation, dtype: float64",,,,,,,,
+647,7660,이수페타시스,"0    0.08877
+Name: Correlation, dtype: float64",,,,,,,,
+648,5950,이수화학,"0    0.10877
+Name: Correlation, dtype: float64",,,,,,,,
+649,15020,이스타코,"0    0.201392
+Name: Correlation, dtype: float64",,,,,,,,
+650,93230,이아이디,"0    0.155841
+Name: Correlation, dtype: float64",,,,,,,,
+651,74610,이엔플러스,"0    0.078877
+Name: Correlation, dtype: float64",,,,,,,,
+652,102460,이연제약,"0    0.1877
+Name: Correlation, dtype: float64",,,,,,,,
+653,84680,이월드,"0    0.105732
+Name: Correlation, dtype: float64",,,,,,,,
+654,350520,이지스레지던스리츠,"0    0.170653
+Name: Correlation, dtype: float64",,,,,,,,
+655,334890,이지스밸류리츠,"0    0.096904
+Name: Correlation, dtype: float64",,,,,,,,
+656,760,이화산업,"0    0.121934
+Name: Correlation, dtype: float64",,,,,,,,
+657,14990,인디에프,"0    0.089917
+Name: Correlation, dtype: float64",,,,,,,,
+658,101140,인바이오젠,"0    0.188855
+Name: Correlation, dtype: float64",,,,,,,,
+659,6490,인스코비,"0    0.13784
+Name: Correlation, dtype: float64",,,,,,,,
+660,23800,인지컨트롤스,"0    0.16292
+Name: Correlation, dtype: float64",,,,,,,,
+661,34590,인천도시가스,"0    0.120341
+Name: Correlation, dtype: float64",,,,,,,,
+662,129260,인터지스,"0    0.162595
+Name: Correlation, dtype: float64",,,,,,,,
+663,23810,인팩,"0    0.088141
+Name: Correlation, dtype: float64",,,,,,,,
+664,249420,일동제약,"0    0.098418
+Name: Correlation, dtype: float64",,,,,,,,
+665,230,일동홀딩스,"0    0.149934
+Name: Correlation, dtype: float64",,,,,,,,
+666,13360,일성건설,"0    0.135758
+Name: Correlation, dtype: float64",,,,,,,,
+667,3120,일성신약,"0    0.083686
+Name: Correlation, dtype: float64",,,,,,,,
+668,3200,일신방직,"0    0.108513
+Name: Correlation, dtype: float64",,,,,,,,
+669,7110,일신석재,"0    0.141529
+Name: Correlation, dtype: float64",,,,,,,,
+670,7570,일양약품,"0    0.216252
+Name: Correlation, dtype: float64",,,,,,,,
+671,7575,일양약품우,"0    0.143575
+Name: Correlation, dtype: float64",,,,,,,,
+672,8500,일정실업,"0    0.19797
+Name: Correlation, dtype: float64",,,,,,,,
+673,81000,일진다이아,"0    0.091198
+Name: Correlation, dtype: float64",,,,,,,,
+674,20760,일진디스플,"0    0.11625
+Name: Correlation, dtype: float64",,,,,,,,
+675,103590,일진전기,"0    0.115428
+Name: Correlation, dtype: float64",,,,,,,,
+676,271940,일진하이솔루스,"0    0.119505
+Name: Correlation, dtype: float64",,,,,,,,
+677,15860,일진홀딩스,"0    0.154916
+Name: Correlation, dtype: float64",,,,,,,,
+678,226320,잇츠한불,"0    0.125441
+Name: Correlation, dtype: float64",,,,,,,,
+679,317400,자이에스앤디,"0    0.16918
+Name: Correlation, dtype: float64",,,,,,,,
+680,33240,자화전자,"0    0.125053
+Name: Correlation, dtype: float64",,,,,,,,
+681,950,전방,"0    0.11603
+Name: Correlation, dtype: float64",,,,,,,,
+682,348950,제이알글로벌리츠,"0    0.141938
+Name: Correlation, dtype: float64",,,,,,,,
+683,194370,제이에스코퍼레이션,"0    0.125478
+Name: Correlation, dtype: float64",,,,,,,,
+684,25620,제이준코스메틱,"0    0.111659
+Name: Correlation, dtype: float64",,,,,,,,
+685,30000,제일기획,"0    0.157732
+Name: Correlation, dtype: float64",,,,,,,,
+686,271980,제일약품,"0    0.146759
+Name: Correlation, dtype: float64",,,,,,,,
+687,1560,제일연마,"0    0.097374
+Name: Correlation, dtype: float64",,,,,,,,
+688,2620,제일파마홀딩스,"0    0.15786
+Name: Correlation, dtype: float64",,,,,,,,
+689,6220,제주은행,"0    0.135822
+Name: Correlation, dtype: float64",,,,,,,,
+690,89590,제주항공,"0    0.138378
+Name: Correlation, dtype: float64",,,,,,,,
+691,4910,조광페인트,"0    0.079342
+Name: Correlation, dtype: float64",,,,,,,,
+692,4700,조광피혁,"0    0.143816
+Name: Correlation, dtype: float64",,,,,,,,
+693,1550,조비,"0    0.163058
+Name: Correlation, dtype: float64",,,,,,,,
+694,462520,조선내화,"0   NaN
+Name: Correlation, dtype: float64",,,,,,,,
+695,120030,조선선재,"0    0.139786
+Name: Correlation, dtype: float64",,,,,,,,
+696,18470,조일알미늄,"0    0.090273
+Name: Correlation, dtype: float64",,,,,,,,
+697,2600,조흥,"0    0.18367
+Name: Correlation, dtype: float64",,,,,,,,
+698,185750,종근당,"0    0.09431
+Name: Correlation, dtype: float64",,,,,,,,
+699,63160,종근당바이오,"0    0.160711
+Name: Correlation, dtype: float64",,,,,,,,
+700,1630,종근당홀딩스,"0    0.105084
+Name: Correlation, dtype: float64",,,,,,,,
+701,109070,주성코퍼레이션,"0   NaN
+Name: Correlation, dtype: float64",,,,,,,,
+702,44380,주연테크,"0    0.112329
+Name: Correlation, dtype: float64",,,,,,,,
+703,13890,지누스,"0    0.122245
+Name: Correlation, dtype: float64",,,,,,,,
+704,13870,지엠비코리아,"0    0.133887
+Name: Correlation, dtype: float64",,,,,,,,
+705,71320,지역난방공사,"0    0.11459
+Name: Correlation, dtype: float64",,,,,,,,
+706,88790,진도,"0    0.123841
+Name: Correlation, dtype: float64",,,,,,,,
+707,3780,진양산업,"0    0.126215
+Name: Correlation, dtype: float64",,,,,,,,
+708,10640,진양폴리,"0    0.089966
+Name: Correlation, dtype: float64",,,,,,,,
+709,100250,진양홀딩스,"0    0.133994
+Name: Correlation, dtype: float64",,,,,,,,
+710,51630,진양화학,"0    0.133445
+Name: Correlation, dtype: float64",,,,,,,,
+711,272450,진에어,"0    0.15941
+Name: Correlation, dtype: float64",,,,,,,,
+712,11000,진원생명과학,"0    0.13647
+Name: Correlation, dtype: float64",,,,,,,,
+713,2780,진흥기업,"0    0.128509
+Name: Correlation, dtype: float64",,,,,,,,
+714,2787,진흥기업2우B,"0    0.161895
+Name: Correlation, dtype: float64",,,,,,,,
+715,2785,진흥기업우B,"0    0.123523
+Name: Correlation, dtype: float64",,,,,,,,
+716,9310,참엔지니어링,"0    0.118441
+Name: Correlation, dtype: float64",,,,,,,,
+717,650,천일고속,"0    0.268271
+Name: Correlation, dtype: float64",,,,,,,,
+718,12600,청호ICT,"0   NaN
+Name: Correlation, dtype: float64",,,,,,,,
+719,33250,체시스,"0    0.085552
+Name: Correlation, dtype: float64",,,,,,,,
+720,35720,카카오,"0    0.109007
+Name: Correlation, dtype: float64",,,,,,,,
+721,323410,카카오뱅크,"0    0.139792
+Name: Correlation, dtype: float64",,,,,,,,
+722,377300,카카오페이,"0    0.108569
+Name: Correlation, dtype: float64",,,,,,,,
+723,6380,카프로,"0    0.071714
+Name: Correlation, dtype: float64",,,,,,,,
+724,1620,케이비아이동국실업,"0    0.072426
+Name: Correlation, dtype: float64",,,,,,,,
+725,29460,케이씨,"0    0.151735
+Name: Correlation, dtype: float64",,,,,,,,
+726,281820,케이씨텍,"0    0.097397
+Name: Correlation, dtype: float64",,,,,,,,
+727,381970,케이카,"0    0.151808
+Name: Correlation, dtype: float64",,,,,,,,
+728,145270,케이탑리츠,"0    0.074278
+Name: Correlation, dtype: float64",,,,,,,,
+729,417310,코람코더원리츠,"0    0.182213
+Name: Correlation, dtype: float64",,,,,,,,
+730,357120,코람코라이프인프라리츠,"0    0.082643
+Name: Correlation, dtype: float64",,,,,,,,
+731,7815,코리아써우,"0    0.106281
+Name: Correlation, dtype: float64",,,,,,,,
+732,7810,코리아써키트,"0    0.095893
+Name: Correlation, dtype: float64",,,,,,,,
+733,00781K,코리아써키트2우B,"0    0.14018
+Name: Correlation, dtype: float64",,,,,,,,
+734,3690,코리안리,"0    0.125415
+Name: Correlation, dtype: float64",,,,,,,,
+735,192820,코스맥스,"0    0.113494
+Name: Correlation, dtype: float64",,,,,,,,
+736,44820,코스맥스비티아이,"0    0.106796
+Name: Correlation, dtype: float64",,,,,,,,
+737,5070,코스모신소재,"0    0.092903
+Name: Correlation, dtype: float64",,,,,,,,
+738,5420,코스모화학,"0    0.180741
+Name: Correlation, dtype: float64",,,,,,,,
+739,71950,코아스,"0    0.11548
+Name: Correlation, dtype: float64",,,,,,,,
+740,2020,코오롱,"0    0.193105
+Name: Correlation, dtype: float64",,,,,,,,
+741,3070,코오롱글로벌,"0    0.123036
+Name: Correlation, dtype: float64",,,,,,,,
+742,3075,코오롱글로벌우,"0    0.130947
+Name: Correlation, dtype: float64",,,,,,,,
+743,450140,코오롱모빌리티그룹,"0   NaN
+Name: Correlation, dtype: float64",,,,,,,,
+744,45014K,코오롱모빌리티그룹우,"0   NaN
+Name: Correlation, dtype: float64",,,,,,,,
+745,2025,코오롱우,"0    0.077971
+Name: Correlation, dtype: float64",,,,,,,,
+746,120110,코오롱인더,"0    0.146428
+Name: Correlation, dtype: float64",,,,,,,,
+747,120115,코오롱인더우,"0    0.160018
+Name: Correlation, dtype: float64",,,,,,,,
+748,138490,코오롱플라스틱,"0    0.146838
+Name: Correlation, dtype: float64",,,,,,,,
+749,21240,코웨이,"0    0.098835
+Name: Correlation, dtype: float64",,,,,,,,
+750,36420,콘텐트리중앙,"0    0.136793
+Name: Correlation, dtype: float64",,,,,,,,
+751,31820,콤텍시스템,"0    0.137273
+Name: Correlation, dtype: float64",,,,,,,,
+752,192400,쿠쿠홀딩스,"0    0.136448
+Name: Correlation, dtype: float64",,,,,,,,
+753,284740,쿠쿠홈시스,"0    0.148678
+Name: Correlation, dtype: float64",,,,,,,,
+754,264900,크라운제과,"0    0.164451
+Name: Correlation, dtype: float64",,,,,,,,
+755,26490K,크라운제과우,"0    0.169141
+Name: Correlation, dtype: float64",,,,,,,,
+756,5740,크라운해태홀딩스,"0    0.158037
+Name: Correlation, dtype: float64",,,,,,,,
+757,5745,크라운해태홀딩스우,"0    0.183676
+Name: Correlation, dtype: float64",,,,,,,,
+758,259960,크래프톤,"0    0.103649
+Name: Correlation, dtype: float64",,,,,,,,
+759,20120,키다리스튜디오,"0    0.132539
+Name: Correlation, dtype: float64",,,,,,,,
+760,39490,키움증권,"0    0.122745
+Name: Correlation, dtype: float64",,,,,,,,
+761,14580,태경비케이,"0    0.122978
+Name: Correlation, dtype: float64",,,,,,,,
+762,15890,태경산업,"0    0.156343
+Name: Correlation, dtype: float64",,,,,,,,
+763,6890,태경케미컬,"0    0.141804
+Name: Correlation, dtype: float64",,,,,,,,
+764,3240,태광산업,"0    0.126864
+Name: Correlation, dtype: float64",,,,,,,,
+765,11280,태림포장,"0    0.115121
+Name: Correlation, dtype: float64",,,,,,,,
+766,4100,태양금속,"0    0.10501
+Name: Correlation, dtype: float64",,,,,,,,
+767,4105,태양금속우,"0    0.105797
+Name: Correlation, dtype: float64",,,,,,,,
+768,9410,태영건설,"0    0.142468
+Name: Correlation, dtype: float64",,,,,,,,
+769,9415,태영건설우,"0    0.183772
+Name: Correlation, dtype: float64",,,,,,,,
+770,1420,태원물산,"0    0.10278
+Name: Correlation, dtype: float64",,,,,,,,
+771,7980,태평양물산,"0    0.107891
+Name: Correlation, dtype: float64",,,,,,,,
+772,55490,테이팩스,"0    0.128581
+Name: Correlation, dtype: float64",,,,,,,,
+773,78000,텔코웨어,"0    0.089695
+Name: Correlation, dtype: float64",,,,,,,,
+774,214420,토니모리,"0    0.129926
+Name: Correlation, dtype: float64",,,,,,,,
+775,19180,티에이치엔,"0    0.109699
+Name: Correlation, dtype: float64",,,,,,,,
+776,363280,티와이홀딩스,"0    0.172884
+Name: Correlation, dtype: float64",,,,,,,,
+777,36328K,티와이홀딩스우,"0    0.200651
+Name: Correlation, dtype: float64",,,,,,,,
+778,91810,티웨이항공,"0    0.087054
+Name: Correlation, dtype: float64",,,,,,,,
+779,4870,티웨이홀딩스,"0    0.104245
+Name: Correlation, dtype: float64",,,,,,,,
+780,5690,파미셀,"0    0.10909
+Name: Correlation, dtype: float64",,,,,,,,
+781,36580,팜스코,"0    0.107692
+Name: Correlation, dtype: float64",,,,,,,,
+782,4720,팜젠사이언스,"0    0.178144
+Name: Correlation, dtype: float64",,,,,,,,
+783,28670,팬오션,"0    0.084276
+Name: Correlation, dtype: float64",,,,,,,,
+784,10820,퍼스텍,"0    0.147898
+Name: Correlation, dtype: float64",,,,,,,,
+785,16800,퍼시스,"0    0.167615
+Name: Correlation, dtype: float64",,,,,,,,
+786,1020,페이퍼코리아,"0    0.112699
+Name: Correlation, dtype: float64",,,,,,,,
+787,90080,평화산업,"0    0.138105
+Name: Correlation, dtype: float64",,,,,,,,
+788,10770,평화홀딩스,"0    0.153995
+Name: Correlation, dtype: float64",,,,,,,,
+789,22100,포스코DX,"0    0.129745
+Name: Correlation, dtype: float64",,,,,,,,
+790,58430,포스코스틸리온,"0    0.13209
+Name: Correlation, dtype: float64",,,,,,,,
+791,47050,포스코인터내셔널,"0    0.076089
+Name: Correlation, dtype: float64",,,,,,,,
+792,3670,포스코퓨처엠,"0    0.104088
+Name: Correlation, dtype: float64",,,,,,,,
+793,17810,풀무원,"0    0.122187
+Name: Correlation, dtype: float64",,,,,,,,
+794,103140,풍산,"0    0.100194
+Name: Correlation, dtype: float64",,,,,,,,
+795,5810,풍산홀딩스,"0    0.10267
+Name: Correlation, dtype: float64",,,,,,,,
+796,950210,프레스티지바이오파마,"0    0.086778
+Name: Correlation, dtype: float64",,,,,,,,
+797,9810,플레이그램,"0    0.116103
+Name: Correlation, dtype: float64",,,,,,,,
+798,86790,하나금융지주,"0    0.09285
+Name: Correlation, dtype: float64",,,,,,,,
+799,293480,하나제약,"0    0.14877
+Name: Correlation, dtype: float64",,,,,,,,
+800,39130,하나투어,"0    0.122728
+Name: Correlation, dtype: float64",,,,,,,,
+801,352820,하이브,"0    0.114906
+Name: Correlation, dtype: float64",,,,,,,,
+802,71090,하이스틸,"0    0.122168
+Name: Correlation, dtype: float64",,,,,,,,
+803,19490,하이트론,"0    0.252308
+Name: Correlation, dtype: float64",,,,,,,,
+804,80,하이트진로,"0    0.132356
+Name: Correlation, dtype: float64",,,,,,,,
+805,87,하이트진로2우B,"0    0.148989
+Name: Correlation, dtype: float64",,,,,,,,
+806,140,하이트진로홀딩스,"0    0.141435
+Name: Correlation, dtype: float64",,,,,,,,
+807,145,하이트진로홀딩스우,"0    0.111093
+Name: Correlation, dtype: float64",,,,,,,,
+808,152550,한국ANKOR유전,"0    0.156031
+Name: Correlation, dtype: float64",,,,,,,,
+809,36460,한국가스공사,"0    0.123811
+Name: Correlation, dtype: float64",,,,,,,,
+810,5430,한국공항,"0    0.114939
+Name: Correlation, dtype: float64",,,,,,,,
+811,71050,한국금융지주,"0    0.116922
+Name: Correlation, dtype: float64",,,,,,,,
+812,71055,한국금융지주우,"0    0.073534
+Name: Correlation, dtype: float64",,,,,,,,
+813,10040,한국내화,"0    0.17792
+Name: Correlation, dtype: float64",,,,,,,,
+814,25540,한국단자,"0    0.113623
+Name: Correlation, dtype: float64",,,,,,,,
+815,10100,한국무브넥스,"0    0.130505
+Name: Correlation, dtype: float64",,,,,,,,
+816,4090,한국석유,"0    0.15392
+Name: Correlation, dtype: float64",,,,,,,,
+817,2200,한국수출포장,"0    0.101107
+Name: Correlation, dtype: float64",,,,,,,,
+818,2960,한국쉘석유,"0    0.127231
+Name: Correlation, dtype: float64",,,,,,,,
+819,240,한국앤컴퍼니,"0    0.089721
+Name: Correlation, dtype: float64",,,,,,,,
+820,123890,한국자산신탁,"0    0.105384
+Name: Correlation, dtype: float64",,,,,,,,
+821,15760,한국전력,"0    0.123637
+Name: Correlation, dtype: float64",,,,,,,,
+822,6200,한국전자홀딩스,"0    0.102103
+Name: Correlation, dtype: float64",,,,,,,,
+823,27970,한국제지,"0    0.158482
+Name: Correlation, dtype: float64",,,,,,,,
+824,23350,한국종합기술,"0    0.124924
+Name: Correlation, dtype: float64",,,,,,,,
+825,25890,한국주강,"0    0.149439
+Name: Correlation, dtype: float64",,,,,,,,
+826,970,한국주철관,"0    0.099211
+Name: Correlation, dtype: float64",,,,,,,,
+827,104700,한국철강,"0    0.148058
+Name: Correlation, dtype: float64",,,,,,,,
+828,17960,한국카본,"0    0.074174
+Name: Correlation, dtype: float64",,,,,,,,
+829,161890,한국콜마,"0    0.087967
+Name: Correlation, dtype: float64",,,,,,,,
+830,24720,한국콜마홀딩스,"0    0.134571
+Name: Correlation, dtype: float64",,,,,,,,
+831,161390,한국타이어앤테크놀로지,"0    0.141625
+Name: Correlation, dtype: float64",,,,,,,,
+832,34830,한국토지신탁,"0    0.168998
+Name: Correlation, dtype: float64",,,,,,,,
+833,7280,한국특강,"0    0.149685
+Name: Correlation, dtype: float64",,,,,,,,
+834,168490,한국패러랠,"0    0.180214
+Name: Correlation, dtype: float64",,,,,,,,
+835,47810,한국항공우주,"0    0.152079
+Name: Correlation, dtype: float64",,,,,,,,
+836,123690,한국화장품,"0    0.091063
+Name: Correlation, dtype: float64",,,,,,,,
+837,3350,한국화장품제조,"0    0.074291
+Name: Correlation, dtype: float64",,,,,,,,
+838,11500,한농화성,"0    0.096815
+Name: Correlation, dtype: float64",,,,,,,,
+839,2390,한독,"0    0.192973
+Name: Correlation, dtype: float64",,,,,,,,
+840,53690,한미글로벌,"0    0.096059
+Name: Correlation, dtype: float64",,,,,,,,
+841,42700,한미반도체,"0    0.070513
+Name: Correlation, dtype: float64",,,,,,,,
+842,8930,한미사이언스,"0    0.113214
+Name: Correlation, dtype: float64",,,,,,,,
+843,128940,한미약품,"0    0.130344
+Name: Correlation, dtype: float64",,,,,,,,
+844,9240,한샘,"0    0.095083
+Name: Correlation, dtype: float64",,,,,,,,
+845,20000,한섬,"0    0.160619
+Name: Correlation, dtype: float64",,,,,,,,
+846,3680,한성기업,"0    0.136496
+Name: Correlation, dtype: float64",,,,,,,,
+847,105630,한세실업,"0    0.125335
+Name: Correlation, dtype: float64",,,,,,,,
+848,69640,한세엠케이,"0    0.134628
+Name: Correlation, dtype: float64",,,,,,,,
+849,16450,한세예스24홀딩스,"0    0.11519
+Name: Correlation, dtype: float64",,,,,,,,
+850,10420,한솔PNS,"0    0.210069
+Name: Correlation, dtype: float64",,,,,,,,
+851,9180,한솔로지스틱스,"0    0.127585
+Name: Correlation, dtype: float64",,,,,,,,
+852,213500,한솔제지,"0    0.111573
+Name: Correlation, dtype: float64",,,,,,,,
+853,14680,한솔케미칼,"0    0.131952
+Name: Correlation, dtype: float64",,,,,,,,
+854,4710,한솔테크닉스,"0    0.097475
+Name: Correlation, dtype: float64",,,,,,,,
+855,4150,한솔홀딩스,"0    0.142121
+Name: Correlation, dtype: float64",,,,,,,,
+856,25750,한솔홈데코,"0    0.193314
+Name: Correlation, dtype: float64",,,,,,,,
+857,4960,한신공영,"0    0.095604
+Name: Correlation, dtype: float64",,,,,,,,
+858,11700,한신기계,"0    0.097116
+Name: Correlation, dtype: float64",,,,,,,,
+859,1750,한양증권,"0    0.109085
+Name: Correlation, dtype: float64",,,,,,,,
+860,1755,한양증권우,"0    0.177207
+Name: Correlation, dtype: float64",,,,,,,,
+861,18880,한온시스템,"0    0.143068
+Name: Correlation, dtype: float64",,,,,,,,
+862,9420,한올바이오파마,"0    0.109816
+Name: Correlation, dtype: float64",,,,,,,,
+863,14130,한익스프레스,"0    0.17289
+Name: Correlation, dtype: float64",,,,,,,,
+864,300720,한일시멘트,"0    0.141966
+Name: Correlation, dtype: float64",,,,,,,,
+865,2220,한일철강,"0    0.101927
+Name: Correlation, dtype: float64",,,,,,,,
+866,6390,한일현대시멘트,"0    0.160735
+Name: Correlation, dtype: float64",,,,,,,,
+867,3300,한일홀딩스,"0    0.134198
+Name: Correlation, dtype: float64",,,,,,,,
+868,51600,한전KPS,"0    0.14571
+Name: Correlation, dtype: float64",,,,,,,,
+869,52690,한전기술,"0    0.132687
+Name: Correlation, dtype: float64",,,,,,,,
+870,130660,한전산업,"0    0.107997
+Name: Correlation, dtype: float64",,,,,,,,
+871,2320,한진,"0    0.189175
+Name: Correlation, dtype: float64",,,,,,,,
+872,3480,한진중공업홀딩스,"0    0.120134
+Name: Correlation, dtype: float64",,,,,,,,
+873,180640,한진칼,"0    0.149291
+Name: Correlation, dtype: float64",,,,,,,,
+874,18064K,한진칼우,"0    0.160719
+Name: Correlation, dtype: float64",,,,,,,,
+875,5110,한창,"0    0.126884
+Name: Correlation, dtype: float64",,,,,,,,
+876,9460,한창제지,"0    0.143037
+Name: Correlation, dtype: float64",,,,,,,,
+877,372910,한컴라이프케어,"0    0.118686
+Name: Correlation, dtype: float64",,,,,,,,
+878,880,한화,"0    0.106069
+Name: Correlation, dtype: float64",,,,,,,,
+879,00088K,한화3우B,"0    0.15454
+Name: Correlation, dtype: float64",,,,,,,,
+880,452260,한화갤러리아,"0   NaN
+Name: Correlation, dtype: float64",,,,,,,,
+881,45226K,한화갤러리아우,"0   NaN
+Name: Correlation, dtype: float64",,,,,,,,
+882,451800,한화리츠,"0   NaN
+Name: Correlation, dtype: float64",,,,,,,,
+883,88350,한화생명,"0    0.113588
+Name: Correlation, dtype: float64",,,,,,,,
+884,370,한화손해보험,"0    0.129157
+Name: Correlation, dtype: float64",,,,,,,,
+885,9830,한화솔루션,"0    0.067395
+Name: Correlation, dtype: float64",,,,,,,,
+886,9835,한화솔루션우,"0    0.124884
+Name: Correlation, dtype: float64",,,,,,,,
+887,272210,한화시스템,"0    0.108836
+Name: Correlation, dtype: float64",,,,,,,,
+888,12450,한화에어로스페이스,"0    0.092004
+Name: Correlation, dtype: float64",,,,,,,,
+889,82740,한화엔진,"0    0.085403
+Name: Correlation, dtype: float64",,,,,,,,
+890,42660,한화오션,"0    0.116042
+Name: Correlation, dtype: float64",,,,,,,,
+891,885,한화우,"0    0.146948
+Name: Correlation, dtype: float64",,,,,,,,
+892,3530,한화투자증권,"0    0.131119
+Name: Correlation, dtype: float64",,,,,,,,
+893,3535,한화투자증권우,"0    0.105826
+Name: Correlation, dtype: float64",,,,,,,,
+894,195870,해성디에스,"0    0.141637
+Name: Correlation, dtype: float64",,,,,,,,
+895,101530,해태제과식품,"0    0.122506
+Name: Correlation, dtype: float64",,,,,,,,
+896,143210,핸즈코퍼레이션,"0    0.12476
+Name: Correlation, dtype: float64",,,,,,,,
+897,720,현대건설,"0    0.199831
+Name: Correlation, dtype: float64",,,,,,,,
+898,725,현대건설우,"0    0.129542
+Name: Correlation, dtype: float64",,,,,,,,
+899,453340,현대그린푸드,"0   NaN
+Name: Correlation, dtype: float64",,,,,,,,
+900,86280,현대글로비스,"0    0.103896
+Name: Correlation, dtype: float64",,,,,,,,
+901,64350,현대로템,"0    0.126509
+Name: Correlation, dtype: float64",,,,,,,,
+902,79430,현대리바트,"0    0.092238
+Name: Correlation, dtype: float64",,,,,,,,
+903,12330,현대모비스,"0    0.15478
+Name: Correlation, dtype: float64",,,,,,,,
+904,10620,현대미포조선,"0    0.089033
+Name: Correlation, dtype: float64",,,,,,,,
+905,69960,현대백화점,"0    0.086724
+Name: Correlation, dtype: float64",,,,,,,,
+906,4560,현대비앤지스틸,"0    0.069157
+Name: Correlation, dtype: float64",,,,,,,,
+907,4310,현대약품,"0    0.126199
+Name: Correlation, dtype: float64",,,,,,,,
+908,17800,현대엘리베이,"0    0.121642
+Name: Correlation, dtype: float64",,,,,,,,
+909,307950,현대오토에버,"0    0.090931
+Name: Correlation, dtype: float64",,,,,,,,
+910,11210,현대위아,"0    0.110981
+Name: Correlation, dtype: float64",,,,,,,,
+911,4020,현대제철,"0    0.106512
+Name: Correlation, dtype: float64",,,,,,,,
+912,5440,현대지에프홀딩스,"0    0.101735
+Name: Correlation, dtype: float64",,,,,,,,
+913,5380,현대차,"0    0.155678
+Name: Correlation, dtype: float64",,,,,,,,
+914,5387,현대차2우B,"0    0.090039
+Name: Correlation, dtype: float64",,,,,,,,
+915,5389,현대차3우B,"0    0.113522
+Name: Correlation, dtype: float64",,,,,,,,
+916,5385,현대차우,"0    0.10089
+Name: Correlation, dtype: float64",,,,,,,,
+917,1500,현대차증권,"0    0.172159
+Name: Correlation, dtype: float64",,,,,,,,
+918,11760,현대코퍼레이션,"0    0.122668
+Name: Correlation, dtype: float64",,,,,,,,
+919,227840,현대코퍼레이션홀딩스,"0    0.149679
+Name: Correlation, dtype: float64",,,,,,,,
+920,126560,현대퓨처넷,"0    0.136564
+Name: Correlation, dtype: float64",,,,,,,,
+921,1450,현대해상,"0    0.099677
+Name: Correlation, dtype: float64",,,,,,,,
+922,57050,현대홈쇼핑,"0    0.136803
+Name: Correlation, dtype: float64",,,,,,,,
+923,93240,형지엘리트,"0    0.141276
+Name: Correlation, dtype: float64",,,,,,,,
+924,3010,혜인,"0    0.129634
+Name: Correlation, dtype: float64",,,,,,,,
+925,111110,호전실업,"0    0.133715
+Name: Correlation, dtype: float64",,,,,,,,
+926,8770,호텔신라,"0    0.106133
+Name: Correlation, dtype: float64",,,,,,,,
+927,8775,호텔신라우,"0    0.146179
+Name: Correlation, dtype: float64",,,,,,,,
+928,2460,화성산업,"0    0.165471
+Name: Correlation, dtype: float64",,,,,,,,
+929,378850,화승알앤에이,"0    0.098523
+Name: Correlation, dtype: float64",,,,,,,,
+930,241590,화승엔터프라이즈,"0    0.090786
+Name: Correlation, dtype: float64",,,,,,,,
+931,6060,화승인더,"0    0.113993
+Name: Correlation, dtype: float64",,,,,,,,
+932,13520,화승코퍼레이션,"0    0.111022
+Name: Correlation, dtype: float64",,,,,,,,
+933,10690,화신,"0    0.063532
+Name: Correlation, dtype: float64",,,,,,,,
+934,133820,화인베스틸,"0    0.084298
+Name: Correlation, dtype: float64",,,,,,,,
+935,10660,화천기계,"0    0.135257
+Name: Correlation, dtype: float64",,,,,,,,
+936,850,화천기공,"0    0.116459
+Name: Correlation, dtype: float64",,,,,,,,
+937,16580,환인제약,"0    0.180903
+Name: Correlation, dtype: float64",,,,,,,,
+938,32560,황금에스티,"0    0.153413
+Name: Correlation, dtype: float64",,,,,,,,
+939,4800,효성,"0    0.147746
+Name: Correlation, dtype: float64",,,,,,,,
+940,94280,효성ITX,"0    0.127802
+Name: Correlation, dtype: float64",,,,,,,,
+941,298040,효성중공업,"0    0.107228
+Name: Correlation, dtype: float64",,,,,,,,
+942,298050,효성첨단소재,"0    0.129063
+Name: Correlation, dtype: float64",,,,,,,,
+943,298020,효성티앤씨,"0    0.148873
+Name: Correlation, dtype: float64",,,,,,,,
+944,298000,효성화학,"0    0.142334
+Name: Correlation, dtype: float64",,,,,,,,
+945,93370,후성,"0    0.158381
+Name: Correlation, dtype: float64",,,,,,,,
+946,81660,휠라홀딩스,"0    0.204826
+Name: Correlation, dtype: float64",,,,,,,,
+947,5870,휴니드,"0    0.123662
+Name: Correlation, dtype: float64",,,,,,,,
+948,79980,휴비스,"0    0.109946
+Name: Correlation, dtype: float64",,,,,,,,
+949,5010,휴스틸,"0    0.139263
+Name: Correlation, dtype: float64",,,,,,,,
+950,540,흥국화재,"0    0.139419
+Name: Correlation, dtype: float64",,,,,,,,
+951,545,흥국화재우,"0    0.109284
+Name: Correlation, dtype: float64",,,,,,,,
+952,3280,흥아해운,"0    0.111389
+Name: Correlation, dtype: float64",,,,,,,,
